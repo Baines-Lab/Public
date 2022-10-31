@@ -1,0 +1,634 @@
+chrEBV	Genbank	gene	1691	5859	.	+	.	ID=gene-BNRF1;Name=BNRF1;gbkey=Gene;gene=BNRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	1736	5692	.	+	0	ID=cds-AFY97827.1;Parent=gene-BNRF1;Dbxref=NCBI_GP:AFY97827.1;Name=AFY97827.1;Note=tegument protein;gbkey=CDS;gene=BNRF1;product=FGAM-synthase;protein_id=AFY97827.1
+chrEBV	Genbank	region	1691	1696	.	+	.	ID=id-BNRF1;gbkey=TATA_signal;gene=BNRF1
+chrEBV	Genbank	region	5844	5849	.	+	.	ID=id-KC207813.1:5844..5849;Note=LMP-2A%2C LMP-2B and BNRF1;gbkey=polyA_signal
+chrEBV	Genbank	ncRNA	6636	6802	.	+	.	ID=rna-KC207813.1:6636..6802;gbkey=ncRNA;product=EBER-1 (pol III transcript)
+chrEBV	Genbank	exon	6636	6802	.	+	.	ID=exon-KC207813.1:6636..6802-1;Parent=rna-KC207813.1:6636..6802;gbkey=ncRNA;product=EBER-1 (pol III transcript)
+chrEBV	Genbank	ncRNA	6963	7136	.	+	.	ID=rna-KC207813.1:6963..7136;gbkey=ncRNA;product=EBER-2 (pol III transcript)
+chrEBV	Genbank	exon	6963	7136	.	+	.	ID=exon-KC207813.1:6963..7136-1;Parent=rna-KC207813.1:6963..7136;gbkey=ncRNA;product=EBER-2 (pol III transcript)
+chrEBV	Genbank	origin_of_replication	7323	9208	.	+	.	ID=id-KC207813.1:7323..9208;Note=region containing oriP%2C the latent cycle origin of DNA replication;gbkey=rep_origin
+chrEBV	Genbank	direct_repeat	7429	7938	.	+	.	ID=id-KC207813.1:7429..7938;Note=binding sites for EBNA-1 (site I%2C family of repeats%2C FR)%3B also functions as a cell type-specific enhancer;gbkey=repeat_region;rpt_type=direct
+chrEBV	Genbank	inverted_repeat	8917	9031	.	+	.	ID=id-KC207813.1:8917..9031;Note=dyad symmetry%2C binding site for EBNA-1 (site II);gbkey=repeat_region;rpt_type=inverted
+chrEBV	Genbank	gene	9527	10158	.	+	.	ID=gene-BCRF1;Name=BCRF1;gbkey=Gene;gene=BCRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	9571	10083	.	+	0	ID=cds-AFY97828.1;Parent=gene-BCRF1;Dbxref=NCBI_GP:AFY97828.1;Name=AFY97828.1;Note=vIL-10;gbkey=CDS;gene=BCRF1;product=BCRF1;protein_id=AFY97828.1
+chrEBV	Genbank	region	10153	10158	.	+	.	ID=id-BCRF1;gbkey=polyA_signal;gene=BCRF1
+chrEBV	Genbank	region	9527	9532	.	+	.	ID=id-BCRF1-2;gbkey=TATA_signal;gene=BCRF1
+chrEBV	Genbank	gene	11201	97209	.	+	.	ID=gene-EBNA-1;Name=EBNA-1;gbkey=Gene;gene=EBNA-1;gene_biotype=other
+chrEBV	Genbank	mRNA	11232	97209	.	+	.	ID=rna-EBNA-1;Parent=gene-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	11232	11375	.	+	.	ID=exon-EBNA-1-1;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	11522	11553	.	+	.	ID=exon-EBNA-1-2;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	14451	14516	.	+	.	ID=exon-EBNA-1-3;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	14598	14729	.	+	.	ID=exon-EBNA-1-4;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	17524	17589	.	+	.	ID=exon-EBNA-1-5;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	17671	17802	.	+	.	ID=exon-EBNA-1-6;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	20597	20662	.	+	.	ID=exon-EBNA-1-7;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	20744	20875	.	+	.	ID=exon-EBNA-1-8;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	23670	23735	.	+	.	ID=exon-EBNA-1-9;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	23817	23948	.	+	.	ID=exon-EBNA-1-10;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	26743	26808	.	+	.	ID=exon-EBNA-1-11;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	26890	27021	.	+	.	ID=exon-EBNA-1-12;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	29816	29881	.	+	.	ID=exon-EBNA-1-13;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	29963	30094	.	+	.	ID=exon-EBNA-1-14;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	32889	32954	.	+	.	ID=exon-EBNA-1-15;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	33036	33167	.	+	.	ID=exon-EBNA-1-16;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	35377	35409	.	+	.	ID=exon-EBNA-1-17;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	35494	35615	.	+	.	ID=exon-EBNA-1-18;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	55092	55263	.	+	.	ID=exon-EBNA-1-19;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	85684	86050	.	+	.	ID=exon-EBNA-1-20;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	exon	95341	97209	.	+	.	ID=exon-EBNA-1-21;Parent=rna-EBNA-1;Note=can start from Cp%2C Qp or any Wp;gbkey=mRNA;gene=EBNA-1;product=EBNA-1
+chrEBV	Genbank	gene	11201	89141	.	+	.	ID=gene-EBNA-3B/EBNA-3C;Name=EBNA-3B/EBNA-3C;gbkey=Gene;gene=EBNA-3B/EBNA-3C;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	11232	89141	.	+	.	ID=rna-EBNA-3B/EBNA-3C;Parent=gene-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	11232	11375	.	+	.	ID=exon-EBNA-3B/EBNA-3C-1;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	11522	11553	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	14451	14516	.	+	.	ID=exon-EBNA-3B/EBNA-3C-3;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	14598	14729	.	+	.	ID=exon-EBNA-3B/EBNA-3C-4;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	17524	17589	.	+	.	ID=exon-EBNA-3B/EBNA-3C-5;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	17671	17802	.	+	.	ID=exon-EBNA-3B/EBNA-3C-6;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	20597	20662	.	+	.	ID=exon-EBNA-3B/EBNA-3C-7;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	20744	20875	.	+	.	ID=exon-EBNA-3B/EBNA-3C-8;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	23670	23735	.	+	.	ID=exon-EBNA-3B/EBNA-3C-9;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	23817	23948	.	+	.	ID=exon-EBNA-3B/EBNA-3C-10;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	26743	26808	.	+	.	ID=exon-EBNA-3B/EBNA-3C-11;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	26890	27021	.	+	.	ID=exon-EBNA-3B/EBNA-3C-12;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	29816	29881	.	+	.	ID=exon-EBNA-3B/EBNA-3C-13;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	29963	30094	.	+	.	ID=exon-EBNA-3B/EBNA-3C-14;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	32889	32954	.	+	.	ID=exon-EBNA-3B/EBNA-3C-15;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	33036	33167	.	+	.	ID=exon-EBNA-3B/EBNA-3C-16;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	35377	35409	.	+	.	ID=exon-EBNA-3B/EBNA-3C-17;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	35494	35615	.	+	.	ID=exon-EBNA-3B/EBNA-3C-18;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	55092	55263	.	+	.	ID=exon-EBNA-3B/EBNA-3C-19;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	82688	83089	.	+	.	ID=exon-EBNA-3B/EBNA-3C-20;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	exon	83168	89141	.	+	.	ID=exon-EBNA-3B/EBNA-3C-21;Parent=rna-EBNA-3B/EBNA-3C;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3B
+chrEBV	Genbank	CDS	82733	83089	.	+	0	ID=cds-AFY97829.1;Parent=rna-EBNA-3B/EBNA-3C;Dbxref=NCBI_GP:AFY97829.1;Name=AFY97829.1;Note=latency protein;gbkey=CDS;gene=EBNA-3B/EBNA-3C;product=EBNA-3B;protein_id=AFY97829.1
+chrEBV	Genbank	CDS	83168	85567	.	+	0	ID=cds-AFY97829.1;Parent=rna-EBNA-3B/EBNA-3C;Dbxref=NCBI_GP:AFY97829.1;Name=AFY97829.1;Note=latency protein;gbkey=CDS;gene=EBNA-3B/EBNA-3C;product=EBNA-3B;protein_id=AFY97829.1
+chrEBV	Genbank	mRNA	11232	89141	.	+	.	ID=rna-EBNA-3B/EBNA-3C-2;Parent=gene-EBNA-3B/EBNA-3C;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	11232	11375	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-1;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	11522	11553	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-2;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	14451	14516	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-3;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	14598	14729	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-4;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	17524	17589	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-5;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	17671	17802	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-6;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	20597	20662	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-7;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	20744	20875	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-8;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	23670	23735	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-9;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	23817	23948	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-10;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	26743	26808	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-11;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	26890	27021	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-12;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	29816	29881	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-13;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	29963	30094	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-14;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	32889	32954	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-15;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	33036	33167	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-16;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	35377	35409	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-17;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	35494	35615	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-18;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	55092	55263	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-19;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	85684	86050	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-20;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	exon	86125	89141	.	+	.	ID=exon-EBNA-3B/EBNA-3C-2-21;Parent=rna-EBNA-3B/EBNA-3C-2;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-3B/EBNA-3C;product=EBNA-3C
+chrEBV	Genbank	CDS	85691	86050	.	+	0	ID=cds-AFY97856.1;Parent=rna-EBNA-3B/EBNA-3C-2;Dbxref=NCBI_GP:AFY97856.1;Name=AFY97856.1;Note=latency protein;gbkey=CDS;gene=EBNA-3B/EBNA-3C;product=EBNA-3C;protein_id=AFY97856.1
+chrEBV	Genbank	CDS	86125	88794	.	+	0	ID=cds-AFY97856.1;Parent=rna-EBNA-3B/EBNA-3C-2;Dbxref=NCBI_GP:AFY97856.1;Name=AFY97856.1;Note=latency protein;gbkey=CDS;gene=EBNA-3B/EBNA-3C;product=EBNA-3C;protein_id=AFY97856.1
+chrEBV	Genbank	gene	11201	82630	.	+	.	ID=gene-EBNA-3A;Name=EBNA-3A;gbkey=Gene;gene=EBNA-3A;gene_biotype=protein_coding
+chrEBV	Genbank	region	82601	82606	.	+	.	ID=id-EBNA-3A;gbkey=polyA_signal;gene=EBNA-3A
+chrEBV	Genbank	mRNA	11232	82630	.	+	.	ID=rna-EBNA-3A;Parent=gene-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	11232	11375	.	+	.	ID=exon-EBNA-3A-1;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	11522	11553	.	+	.	ID=exon-EBNA-3A-2;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	14451	14516	.	+	.	ID=exon-EBNA-3A-3;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	14598	14729	.	+	.	ID=exon-EBNA-3A-4;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	17524	17589	.	+	.	ID=exon-EBNA-3A-5;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	17671	17802	.	+	.	ID=exon-EBNA-3A-6;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	20597	20662	.	+	.	ID=exon-EBNA-3A-7;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	20744	20875	.	+	.	ID=exon-EBNA-3A-8;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	23670	23735	.	+	.	ID=exon-EBNA-3A-9;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	23817	23948	.	+	.	ID=exon-EBNA-3A-10;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	26743	26808	.	+	.	ID=exon-EBNA-3A-11;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	26890	27021	.	+	.	ID=exon-EBNA-3A-12;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	29816	29881	.	+	.	ID=exon-EBNA-3A-13;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	29963	30094	.	+	.	ID=exon-EBNA-3A-14;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	32889	32954	.	+	.	ID=exon-EBNA-3A-15;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	33036	33167	.	+	.	ID=exon-EBNA-3A-16;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	35377	35409	.	+	.	ID=exon-EBNA-3A-17;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	35494	35615	.	+	.	ID=exon-EBNA-3A-18;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	55092	55263	.	+	.	ID=exon-EBNA-3A-19;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	79618	79961	.	+	.	ID=exon-EBNA-3A-20;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	exon	80050	82630	.	+	.	ID=exon-EBNA-3A-21;Parent=rna-EBNA-3A;gbkey=mRNA;gene=EBNA-3A;product=EBNA-3A
+chrEBV	Genbank	CDS	79623	79961	.	+	0	ID=cds-AFY97830.1;Parent=rna-EBNA-3A;Dbxref=NCBI_GP:AFY97830.1;Name=AFY97830.1;Note=latency protein;gbkey=CDS;gene=EBNA-3A;product=EBNA-3A;protein_id=AFY97830.1
+chrEBV	Genbank	CDS	80050	82545	.	+	0	ID=cds-AFY97830.1;Parent=rna-EBNA-3A;Dbxref=NCBI_GP:AFY97830.1;Name=AFY97830.1;Note=latency protein;gbkey=CDS;gene=EBNA-3A;product=EBNA-3A;protein_id=AFY97830.1
+chrEBV	Genbank	direct_repeat	38190	39727	.	+	.	ID=id-EBNA-3A-2;gbkey=repeat_region;gene=EBNA-3A;rpt_family=IR2%3B NotI;rpt_type=direct;rpt_unit_range=38190..38314
+chrEBV	Genbank	direct_repeat	40265	41308	.	+	.	ID=id-EBNA-3A-3;Note=DRleft;gbkey=repeat_region;gene=EBNA-3A;rpt_family=DR;rpt_type=direct
+chrEBV	Genbank	gene	11201	37640	.	+	.	ID=gene-EBNA-2;Name=EBNA-2;gbkey=Gene;gene=EBNA-2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	36120	37580	.	+	0	ID=cds-AFY97831.1;Parent=gene-EBNA-2;Dbxref=NCBI_GP:AFY97831.1;Name=AFY97831.1;Note=transcription factor;gbkey=CDS;gene=EBNA-2;product=EBNA-2;protein_id=AFY97831.1
+chrEBV	Genbank	direct_repeat	11897	35259	.	+	.	ID=id-EBNA-2;gbkey=repeat_region;gene=EBNA-2;rpt_family=IR1%3B W;rpt_type=direct;rpt_unit_range=11897..14969
+chrEBV	Genbank	direct_repeat	11897	14969	.	+	.	ID=id-EBNA-2-2;gbkey=repeat_region;gene=EBNA-2;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	region	11201	11206	.	+	.	ID=id-KC207813.1:11201..11206;Note=C promoter (Cp) used in latency III;gbkey=TATA_signal
+chrEBV	Genbank	gene	12437	13588	.	+	.	ID=gene-BWRF1;Name=BWRF1;description=originally called BCRF2;gbkey=Gene;gene=BWRF1;gene_biotype=other
+chrEBV	Genbank	sequence_feature	12437	13588	.	+	.	ID=id-BWRF1;Note=similar to BWRF1;gbkey=misc_feature;gene=BWRF1
+chrEBV	Genbank	gene	14248	37645	.	+	.	ID=gene-EBNA-LP;Name=EBNA-LP;gbkey=Gene;gene=EBNA-LP;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	14280	37645	.	+	.	ID=rna-EBNA-LP;Parent=gene-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	14280	14306	.	+	.	ID=exon-EBNA-LP-1;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	14456	14516	.	+	.	ID=exon-EBNA-LP-2;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	14598	14729	.	+	.	ID=exon-EBNA-LP-3;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	17524	17589	.	+	.	ID=exon-EBNA-LP-4;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	17671	17802	.	+	.	ID=exon-EBNA-LP-5;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	20597	20662	.	+	.	ID=exon-EBNA-LP-6;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	20744	20875	.	+	.	ID=exon-EBNA-LP-7;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	23670	23735	.	+	.	ID=exon-EBNA-LP-8;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	23817	23948	.	+	.	ID=exon-EBNA-LP-9;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	26743	26808	.	+	.	ID=exon-EBNA-LP-10;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	26890	27021	.	+	.	ID=exon-EBNA-LP-11;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	29816	29881	.	+	.	ID=exon-EBNA-LP-12;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	29963	30094	.	+	.	ID=exon-EBNA-LP-13;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	32889	32954	.	+	.	ID=exon-EBNA-LP-14;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	33036	33167	.	+	.	ID=exon-EBNA-LP-15;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	35377	35409	.	+	.	ID=exon-EBNA-LP-16;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	35494	35615	.	+	.	ID=exon-EBNA-LP-17;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	36002	36060	.	+	.	ID=exon-EBNA-LP-18;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	exon	37555	37645	.	+	.	ID=exon-EBNA-LP-19;Parent=rna-EBNA-LP;Note=can start from Cp or any Wp;gbkey=mRNA;gene=EBNA-LP;product=EBNA-LP
+chrEBV	Genbank	CDS	14305	14306	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	14456	14516	.	+	1	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	14598	14729	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	17524	17589	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	17671	17802	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	20597	20662	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	20744	20875	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	23670	23735	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	23817	23948	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	26743	26808	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	26890	27021	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	29816	29881	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	29963	30094	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	32889	32954	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	33036	33167	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	35377	35409	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	CDS	35494	35598	.	+	0	ID=cds-AFY97832.1;Parent=rna-EBNA-LP;Dbxref=NCBI_GP:AFY97832.1;Name=AFY97832.1;Note=latency protein;gbkey=CDS;gene=EBNA-LP;product=EBNA-LP;protein_id=AFY97832.1
+chrEBV	Genbank	region	37616	37621	.	+	.	ID=id-EBNA-LP;Note=EBNA-2 and EBNA-LP;gbkey=polyA_signal;gene=EBNA-LP
+chrEBV	Genbank	direct_repeat	14970	18042	.	+	.	ID=id-EBNA-LP-2;gbkey=repeat_region;gene=EBNA-LP;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	direct_repeat	18043	21115	.	+	.	ID=id-EBNA-LP-3;gbkey=repeat_region;gene=EBNA-LP;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	direct_repeat	21116	24188	.	+	.	ID=id-EBNA-LP-4;gbkey=repeat_region;gene=EBNA-LP;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	direct_repeat	24189	27261	.	+	.	ID=id-EBNA-LP-5;gbkey=repeat_region;gene=EBNA-LP;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	direct_repeat	27262	30334	.	+	.	ID=id-EBNA-LP-6;gbkey=repeat_region;gene=EBNA-LP;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	direct_repeat	30335	33407	.	+	.	ID=id-EBNA-LP-7;gbkey=repeat_region;gene=EBNA-LP;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	direct_repeat	33408	35259	.	+	.	ID=id-EBNA-LP-8;Note=partial copy;gbkey=repeat_region;gene=EBNA-LP;rpt_family=IR1%3B W;rpt_type=direct
+chrEBV	Genbank	repeat_region	36294	36413	.	+	.	ID=id-EBNA-LP-9;gbkey=repeat_region;gene=EBNA-LP;rpt_unit_range=36294..36302
+chrEBV	Genbank	repeat_region	37138	37191	.	+	.	ID=id-EBNA-LP-10;gbkey=repeat_region;gene=EBNA-LP;rpt_unit_range=37138..37143
+chrEBV	Genbank	region	14248	14253	.	+	.	ID=id-EBNA-LP-11;Note=W promoter (Wp) used in earlier stages of latent infection;gbkey=TATA_signal;gene=EBNA-LP
+chrEBV	Genbank	region	17321	17326	.	+	.	ID=id-EBNA-LP-12;Note=W promoter (Wp) used in earlier stages of latent infection;gbkey=TATA_signal;gene=EBNA-LP
+chrEBV	Genbank	region	20394	20399	.	+	.	ID=id-EBNA-LP-13;Note=W promoter (Wp) used in earlier stages of latent infection;gbkey=TATA_signal;gene=EBNA-LP
+chrEBV	Genbank	region	23467	23472	.	+	.	ID=id-EBNA-LP-14;Note=W promoter (Wp) used in earlier stages of latent infection;gbkey=TATA_signal;gene=EBNA-LP
+chrEBV	Genbank	region	26540	26545	.	+	.	ID=id-EBNA-LP-15;Note=W promoter (Wp) used in earlier stages of latent infection;gbkey=TATA_signal;gene=EBNA-LP
+chrEBV	Genbank	region	29613	29618	.	+	.	ID=id-EBNA-LP-16;Note=W promoter (Wp) used in earlier stages of latent infection;gbkey=TATA_signal;gene=EBNA-LP
+chrEBV	Genbank	region	32686	32691	.	+	.	ID=id-EBNA-LP-17;Note=W promoter (Wp) used in earlier stages of latent infection;gbkey=TATA_signal;gene=EBNA-LP
+chrEBV	Genbank	gene	37914	40428	.	-	.	ID=gene-KC207813.1:37914..40428;description=BHLF1;gbkey=Gene;gene_biotype=other
+chrEBV	Genbank	region	37924	37929	.	-	.	ID=id-KC207813.1:37924..37929;gbkey=polyA_signal
+chrEBV	Genbank	region	40423	40428	.	-	.	ID=id-KC207813.1:40423..40428;gbkey=TATA_signal
+chrEBV	Genbank	origin_of_replication	40200	41192	.	+	.	ID=id-KC207813.1:40200..41192;Note=region containing oriLyt%2C core lytic cycle origin of DNA replication;gbkey=rep_origin
+chrEBV	Genbank	gene	41370	43150	.	+	.	ID=gene-BHRF1;Name=BHRF1;description=can also be expressed from Cp or Wp type of spliced RNA;gbkey=Gene;gene=BHRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	41987	42562	.	+	0	ID=cds-AFY97833.1;Parent=gene-BHRF1;Dbxref=NCBI_GP:AFY97833.1;Name=AFY97833.1;Note=vbcl-2a;gbkey=CDS;gene=BHRF1;product=BHRF1;protein_id=AFY97833.1
+chrEBV	Genbank	intron	41528	41945	.	+	.	ID=id-BHRF1;Parent=gene-BHRF1;Note=spliced in some BHRF1 transcripts%3B acceptor site is utilized by latent transcripts;gbkey=intron;gene=BHRF1
+chrEBV	Genbank	region	43129	43134	.	+	.	ID=id-BHRF1-2;gbkey=polyA_signal;gene=BHRF1
+chrEBV	Genbank	region	41370	41375	.	+	.	ID=id-BHRF1-3;gbkey=TATA_signal;gene=BHRF1
+chrEBV	Genbank	miRNA	41373	41394	.	+	.	ID=rna-BHRF1;Parent=gene-BHRF1;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-1
+chrEBV	Genbank	exon	41373	41394	.	+	.	ID=exon-BHRF1-1;Parent=rna-BHRF1;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-1
+chrEBV	Genbank	miRNA	42752	42773	.	+	.	ID=rna-BHRF1-2;Parent=gene-BHRF1;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-2*
+chrEBV	Genbank	exon	42752	42773	.	+	.	ID=exon-BHRF1-2-1;Parent=rna-BHRF1-2;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-2*
+chrEBV	Genbank	miRNA	42787	42808	.	+	.	ID=rna-BHRF1-3;Parent=gene-BHRF1;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-2
+chrEBV	Genbank	exon	42787	42808	.	+	.	ID=exon-BHRF1-3-1;Parent=rna-BHRF1-3;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-2
+chrEBV	Genbank	miRNA	42867	42888	.	+	.	ID=rna-BHRF1-4;Parent=gene-BHRF1;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-3
+chrEBV	Genbank	exon	42867	42888	.	+	.	ID=exon-BHRF1-4-1;Parent=rna-BHRF1-4;gbkey=ncRNA;gene=BHRF1;product=ebv-miR-BHRF1-3
+chrEBV	Genbank	gene	43593	46182	.	-	.	ID=gene-BFLF1;Name=BFLF1;gbkey=Gene;gene=BFLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	44562	46139	.	-	0	ID=cds-AFY97834.1;Parent=gene-BFLF1;Dbxref=NCBI_GP:AFY97834.1;Name=AFY97834.1;Note=role in nuclear localization of capsids and DNA packaging;gbkey=CDS;gene=BFLF1;product=BFLF1;protein_id=AFY97834.1
+chrEBV	Genbank	region	46177	46182	.	-	.	ID=id-BFLF1;gbkey=TATA_signal;gene=BFLF1
+chrEBV	Genbank	gene	43593	44695	.	-	.	ID=gene-BFLF2;Name=BFLF2;gbkey=Gene;gene=BFLF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	43593	44549	.	-	0	ID=cds-AFY97835.1;Parent=gene-BFLF2;Dbxref=NCBI_GP:AFY97835.1;Name=AFY97835.1;Note=role in egress of capsids from nucleus;gbkey=CDS;gene=BFLF2;product=BFLF2;protein_id=AFY97835.1
+chrEBV	Genbank	region	44690	44695	.	-	.	ID=id-BFLF2;gbkey=TATA_signal;gene=BFLF2
+chrEBV	Genbank	region	43599	43604	.	-	.	ID=id-KC207813.1:43599..43604;Note=BFLF1 and BFLF2;gbkey=polyA_signal
+chrEBV	Genbank	gene	46138	49688	.	+	.	ID=gene-BFRF1A;Name=BFRF1A;gbkey=Gene;gene=BFRF1A;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	46138	46545	.	+	0	ID=cds-AFY97836.1;Parent=gene-BFRF1A;Dbxref=NCBI_GP:AFY97836.1;Name=AFY97836.1;Note=role in DNA packaging;gbkey=CDS;gene=BFRF1A;product=BFRF1A;protein_id=AFY97836.1
+chrEBV	Genbank	gene	46446	49688	.	+	.	ID=gene-BFRF1;Name=BFRF1;gbkey=Gene;gene=BFRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	46505	47515	.	+	0	ID=cds-AFY97837.1;Parent=gene-BFRF1;Dbxref=NCBI_GP:AFY97837.1;Name=AFY97837.1;Note=role in egress of capsids from nucleus;gbkey=CDS;gene=BFRF1;product=BFRF1;protein_id=AFY97837.1
+chrEBV	Genbank	region	46446	46451	.	+	.	ID=id-BFRF1;gbkey=TATA_signal;gene=BFRF1
+chrEBV	Genbank	gene	47422	49688	.	+	.	ID=gene-BFRF2;Name=BFRF2;gbkey=Gene;gene=BFRF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	47422	49197	.	+	0	ID=cds-AFY97838.1;Parent=gene-BFRF2;Dbxref=NCBI_GP:AFY97838.1;Name=AFY97838.1;gbkey=CDS;gene=BFRF2;product=BFRF2;protein_id=AFY97838.1
+chrEBV	Genbank	gene	49121	49688	.	+	.	ID=gene-BFRF3;Name=BFRF3;gbkey=Gene;gene=BFRF3;gene_biotype=protein_coding
+chrEBV	Genbank	region	48958	48963	.	+	.	ID=id-KC207813.1:48958..48963;gbkey=TATA_signal;gene=BFRF3
+chrEBV	Genbank	CDS	49121	49651	.	+	0	ID=cds-AFY97839.1;Parent=gene-BFRF3;Dbxref=NCBI_GP:AFY97839.1;Name=AFY97839.1;Note=small capsid protein on hexon tips;gbkey=CDS;gene=BFRF3;product=BFRF3;protein_id=AFY97839.1
+chrEBV	Genbank	gene	49677	62855	.	-	.	ID=gene-BOLF1;Name=BOLF1;gbkey=Gene;gene=BOLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	59044	62772	.	-	0	ID=cds-AFY97840.1;Parent=gene-BOLF1;Dbxref=NCBI_GP:AFY97840.1;Name=AFY97840.1;Note=tegument protein;gbkey=CDS;gene=BOLF1;product=BOLF1;protein_id=AFY97840.1
+chrEBV	Genbank	region	62850	62855	.	-	.	ID=id-BOLF1;gbkey=TATA_signal;gene=BOLF1
+chrEBV	Genbank	gene	49677	59722	.	-	.	ID=gene-BPLF1;Name=BPLF1;gbkey=Gene;gene=BPLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	49692	59051	.	-	0	ID=cds-AFY97841.1;Parent=gene-BPLF1;Dbxref=NCBI_GP:AFY97841.1;Name=AFY97841.1;Note=large tegument protein;gbkey=CDS;gene=BPLF1;product=BPLF1;protein_id=AFY97841.1
+chrEBV	Genbank	region	59717	59722	.	-	.	ID=id-BPLF1;gbkey=TATA_signal;gene=BPLF1
+chrEBV	Genbank	region	49677	49682	.	-	.	ID=id-KC207813.1:49677..49682;Note=BOLF1 and BPLF1;gbkey=polyA_signal
+chrEBV	Genbank	region	49683	49688	.	+	.	ID=id-KC207813.1:49683..49688;Note=for BFRF1A%2C BFRF1%2C BFRF2 and BFRF3;gbkey=polyA_signal
+chrEBV	Genbank	exon	49845	50072	.	+	.	ID=id-KC207813.1:49845..50072;Note=Fp first exon of splice RNAs induced in lytic cycle%2C some spliced to EBNA-1;gbkey=exon
+chrEBV	Genbank	gene	50036	97209	.	+	.	ID=gene-EBNA-1-2;Name=EBNA-1;description=latency I;gbkey=Gene;gene=EBNA-1;gene_biotype=protein_coding
+chrEBV	Genbank	region	97204	97209	.	+	.	ID=id-EBNA-1;gbkey=polyA_signal;gene=EBNA-1
+chrEBV	Genbank	mRNA	50036	97209	.	+	.	ID=rna-EBNA-1-2;Parent=gene-EBNA-1-2;Note=starts from the Q promoter (Qp) in latency I;gbkey=mRNA;gene=EBNA-1;product=EBNA-1%2C QUK transcript
+chrEBV	Genbank	exon	50036	50072	.	+	.	ID=exon-EBNA-1-2-1;Parent=rna-EBNA-1-2;Note=starts from the Q promoter (Qp) in latency I;gbkey=mRNA;gene=EBNA-1;product=EBNA-1%2C QUK transcript
+chrEBV	Genbank	exon	55092	55263	.	+	.	ID=exon-EBNA-1-2-2;Parent=rna-EBNA-1-2;Note=starts from the Q promoter (Qp) in latency I;gbkey=mRNA;gene=EBNA-1;product=EBNA-1%2C QUK transcript
+chrEBV	Genbank	exon	95341	97209	.	+	.	ID=exon-EBNA-1-2-3;Parent=rna-EBNA-1-2;Note=starts from the Q promoter (Qp) in latency I;gbkey=mRNA;gene=EBNA-1;product=EBNA-1%2C QUK transcript
+chrEBV	Genbank	CDS	95349	97142	.	+	0	ID=cds-AFY97842.1;Parent=rna-EBNA-1-2;Dbxref=NCBI_GP:AFY97842.1;Name=AFY97842.1;Note=maintenance of episomal genome;gbkey=CDS;gene=EBNA-1;product=EBNA-1;protein_id=AFY97842.1
+chrEBV	Genbank	region	89136	89141	.	+	.	ID=id-EBNA-1-2;Note=EBNA-3B and EBNA-3C;gbkey=polyA_signal;gene=EBNA-1
+chrEBV	Genbank	repeat_region	57298	57544	.	+	.	ID=id-EBNA-1-3;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=57298..57348
+chrEBV	Genbank	repeat_region	58001	58045	.	+	.	ID=id-EBNA-1-4;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=58001..58015
+chrEBV	Genbank	repeat_region	69852	69994	.	+	.	ID=id-EBNA-1-5;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=69852..69922
+chrEBV	Genbank	repeat_region	71173	71262	.	+	.	ID=id-EBNA-1-6;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=71173..71181
+chrEBV	Genbank	repeat_region	77683	78019	.	+	.	ID=id-EBNA-1-7;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=77683..77713
+chrEBV	Genbank	repeat_region	81588	81657	.	+	.	ID=id-EBNA-1-8;gbkey=repeat_region;gene=EBNA-1;rpt_family=type A
+chrEBV	Genbank	repeat_region	81661	81686	.	+	.	ID=id-EBNA-1-9;gbkey=repeat_region;gene=EBNA-1;rpt_family=type B
+chrEBV	Genbank	repeat_region	81687	81761	.	+	.	ID=id-EBNA-1-10;gbkey=repeat_region;gene=EBNA-1;rpt_family=type C
+chrEBV	Genbank	repeat_region	81766	81791	.	+	.	ID=id-EBNA-1-11;gbkey=repeat_region;gene=EBNA-1;rpt_family=type B
+chrEBV	Genbank	repeat_region	81792	81869	.	+	.	ID=id-EBNA-1-12;gbkey=repeat_region;gene=EBNA-1;rpt_family=type C
+chrEBV	Genbank	repeat_region	81870	81940	.	+	.	ID=id-EBNA-1-13;gbkey=repeat_region;gene=EBNA-1;rpt_family=type A
+chrEBV	Genbank	repeat_region	81951	82028	.	+	.	ID=id-EBNA-1-14;gbkey=repeat_region;gene=EBNA-1;rpt_family=type C
+chrEBV	Genbank	repeat_region	82029	82099	.	+	.	ID=id-EBNA-1-15;gbkey=repeat_region;gene=EBNA-1;rpt_family=type A
+chrEBV	Genbank	repeat_region	82276	82362	.	+	.	ID=id-EBNA-1-16;gbkey=repeat_region;gene=EBNA-1;rpt_family=type D
+chrEBV	Genbank	repeat_region	82363	82449	.	+	.	ID=id-EBNA-1-17;gbkey=repeat_region;gene=EBNA-1;rpt_family=type D
+chrEBV	Genbank	repeat_region	84902	85018	.	+	.	ID=id-EBNA-1-18;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=84902..84961
+chrEBV	Genbank	repeat_region	87442	87624	.	+	.	ID=id-EBNA-1-19;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=87442..87456
+chrEBV	Genbank	repeat_region	87880	88152	.	+	.	ID=id-EBNA-1-20;gbkey=repeat_region;gene=EBNA-1;rpt_unit_range=87880..87918
+chrEBV	Genbank	repeat_region	89953	90051	.	+	.	ID=id-EBNA-1-21;gbkey=repeat_region;gene=EBNA-1
+chrEBV	Genbank	direct_repeat	95616	96251	.	+	.	ID=id-EBNA-1-22;gbkey=repeat_region;gene=EBNA-1;rpt_family=IR3%3B EBNA-1 triplet;rpt_type=direct
+chrEBV	Genbank	protein_binding_site	50044	50091	.	+	.	ID=id-KC207813.1:50044..50091;Note=site III;bound_moiety=EBNA-1;gbkey=protein_bind
+chrEBV	Genbank	gene	62550	66421	.	+	.	ID=gene-BORF1;Name=BORF1;gbkey=Gene;gene=BORF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	62771	63865	.	+	0	ID=cds-AFY97843.1;Parent=gene-BORF1;Dbxref=NCBI_GP:AFY97843.1;Name=AFY97843.1;Note=capsid triplex protein;gbkey=CDS;gene=BORF1;product=capsid triplex subunit 1;protein_id=AFY97843.1
+chrEBV	Genbank	region	62550	62555	.	+	.	ID=id-BORF1;gbkey=TATA_signal;gene=BORF1
+chrEBV	Genbank	gene	63702	66421	.	+	.	ID=gene-BORF2;Name=BORF2;gbkey=Gene;gene=BORF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	63940	66420	.	+	0	ID=cds-AFY97844.1;Parent=gene-BORF2;Dbxref=NCBI_GP:AFY97844.1;Name=AFY97844.1;Note=ribonucleotide reductase large subunit;gbkey=CDS;gene=BORF2;product=BORF2;protein_id=AFY97844.1
+chrEBV	Genbank	region	63702	63707	.	+	.	ID=id-BORF2;gbkey=TATA_signal;gene=BORF2
+chrEBV	Genbank	region	66337	66342	.	+	.	ID=id-BORF2-2;gbkey=TATA_signal;gene=BORF2
+chrEBV	Genbank	region	66146	66421	.	+	.	ID=id-KC207813.1:66146..66421;Note=BORF1 and BORF2;gbkey=polyA_signal
+chrEBV	Genbank	gene	66337	69737	.	+	.	ID=gene-BaRF1;Name=BaRF1;gbkey=Gene;gene=BaRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	66433	67341	.	+	0	ID=cds-AFY97845.1;Parent=gene-BaRF1;Dbxref=NCBI_GP:AFY97845.1;Name=AFY97845.1;Note=ribonucleotide reductase small subunit;gbkey=CDS;gene=BaRF1;product=BaRF1;protein_id=AFY97845.1
+chrEBV	Genbank	gene	67373	69737	.	+	.	ID=gene-BMRF1;Name=BMRF1;gbkey=Gene;gene=BMRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	67432	68646	.	+	0	ID=cds-AFY97846.1;Parent=gene-BMRF1;Dbxref=NCBI_GP:AFY97846.1;Name=AFY97846.1;Note=early antigen D;gbkey=CDS;gene=BMRF1;product=BMRF1;protein_id=AFY97846.1
+chrEBV	Genbank	region	67373	67378	.	+	.	ID=id-BMRF1;gbkey=TATA_signal;gene=BMRF1
+chrEBV	Genbank	gene	68312	69737	.	+	.	ID=gene-BMRF2;Name=BMRF2;gbkey=Gene;gene=BMRF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	68651	69724	.	+	0	ID=cds-AFY97847.1;Parent=gene-BMRF2;Dbxref=NCBI_GP:AFY97847.1;Name=AFY97847.1;Note=multiple transmembrane protein;gbkey=CDS;gene=BMRF2;product=BMRF2;protein_id=AFY97847.1
+chrEBV	Genbank	region	68312	68317	.	+	.	ID=id-BMRF2;gbkey=TATA_signal;gene=BMRF2
+chrEBV	Genbank	region	68365	68370	.	+	.	ID=id-BMRF2-2;gbkey=TATA_signal;gene=BMRF2
+chrEBV	Genbank	region	69713	69718	.	+	.	ID=id-KC207813.1:69713..69718;Note=BaRF1%2C BMRF1 and BMRF2;gbkey=polyA_signal
+chrEBV	Genbank	gene	70275	74414	.	-	.	ID=gene-BSLF1;Name=BSLF1;gbkey=Gene;gene=BSLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	71790	74414	.	-	0	ID=cds-AFY97848.1;Parent=gene-BSLF1;Dbxref=NCBI_GP:AFY97848.1;Name=AFY97848.1;Note=primase subunit of helicase-primase complex;gbkey=CDS;gene=BSLF1;product=helicase-primase primase subunit BSLF1;protein_id=AFY97848.1
+chrEBV	Genbank	gene	70275	71889	.	-	.	ID=gene-BSLF2/BMLF1;Name=BSLF2/BMLF1;description=SM;gbkey=Gene;gene=BSLF2/BMLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	71761	71821	.	-	0	ID=cds-AFY97849.1;Parent=gene-BSLF2/BMLF1;Dbxref=NCBI_GP:AFY97849.1;Name=AFY97849.1;Note=post-transcriptional regulator;gbkey=CDS;gene=BSLF2/BMLF1;product=BSLF2/BMLF1;protein_id=AFY97849.1
+chrEBV	Genbank	CDS	70276	71654	.	-	2	ID=cds-AFY97849.1;Parent=gene-BSLF2/BMLF1;Dbxref=NCBI_GP:AFY97849.1;Name=AFY97849.1;Note=post-transcriptional regulator;gbkey=CDS;gene=BSLF2/BMLF1;product=BSLF2/BMLF1;protein_id=AFY97849.1
+chrEBV	Genbank	region	71884	71889	.	-	.	ID=id-BSLF2/BMLF1;gbkey=TATA_signal;gene=BSLF2/BMLF1
+chrEBV	Genbank	region	70275	70280	.	-	.	ID=id-KC207813.1:70275..70280;Note=BSLF1 and BSLF2/BMLF1;gbkey=polyA_signal
+chrEBV	Genbank	gene	74415	75137	.	+	.	ID=gene-BSRF1;Name=BSRF1;gbkey=Gene;gene=BSRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	74457	75113	.	+	0	ID=cds-AFY97850.1;Parent=gene-BSRF1;Dbxref=NCBI_GP:AFY97850.1;Name=AFY97850.1;Note=tegument protein;gbkey=CDS;gene=BSRF1;product=BSRF1;protein_id=AFY97850.1
+chrEBV	Genbank	region	75132	75137	.	+	.	ID=id-BSRF1;gbkey=polyA_signal;gene=BSRF1
+chrEBV	Genbank	region	74415	74420	.	+	.	ID=id-BSRF1-2;gbkey=TATA_signal;gene=BSRF1
+chrEBV	Genbank	gene	75141	76052	.	-	.	ID=gene-BLLF3;Name=BLLF3;gbkey=Gene;gene=BLLF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	75171	76007	.	-	0	ID=cds-AFY97851.1;Parent=gene-BLLF3;Dbxref=NCBI_GP:AFY97851.1;Name=AFY97851.1;Note=deoxyuridine triphosphatase;gbkey=CDS;gene=BLLF3;product=dUTPase;protein_id=AFY97851.1
+chrEBV	Genbank	region	75141	75146	.	-	.	ID=id-BLLF3;gbkey=polyA_signal;gene=BLLF3
+chrEBV	Genbank	region	76042	76047	.	-	.	ID=id-BLLF3-2;gbkey=TATA_signal;gene=BLLF3
+chrEBV	Genbank	gene	76040	76950	.	+	.	ID=gene-BLRF1;Name=BLRF1;gbkey=Gene;gene=BLRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	76080	76388	.	+	0	ID=cds-AFY97852.1;Parent=gene-BLRF1;Dbxref=NCBI_GP:AFY97852.1;Name=AFY97852.1;Note=envelope glycoprotein gN;gbkey=CDS;gene=BLRF1;product=BLRF1;protein_id=AFY97852.1
+chrEBV	Genbank	region	76040	76045	.	+	.	ID=id-BLRF1;gbkey=TATA_signal;gene=BLRF1
+chrEBV	Genbank	gene	76396	76950	.	+	.	ID=gene-BLRF2;Name=BLRF2;gbkey=Gene;gene=BLRF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	76458	76946	.	+	0	ID=cds-AFY97853.1;Parent=gene-BLRF2;Dbxref=NCBI_GP:AFY97853.1;Name=AFY97853.1;gbkey=CDS;gene=BLRF2;product=BLRF2;protein_id=AFY97853.1
+chrEBV	Genbank	region	76396	76401	.	+	.	ID=id-BLRF2;gbkey=TATA_signal;gene=BLRF2
+chrEBV	Genbank	region	76945	76950	.	+	.	ID=id-KC207813.1:76945..76950;Note=BLRF1 and BLRF2;gbkey=polyA_signal
+chrEBV	Genbank	gene	76953	79572	.	-	.	ID=gene-BLLF1;Name=BLLF1;gbkey=Gene;gene=BLLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	76963	79533	.	-	0	ID=cds-AFY97854.1;Parent=gene-BLLF1;Dbxref=NCBI_GP:AFY97854.1;Name=AFY97854.1;Note=role in entry;gbkey=CDS;gene=BLLF1;product=BLLF1;protein_id=AFY97854.1
+chrEBV	Genbank	intron	77595	78032	.	-	.	ID=id-BLLF1;Parent=gene-BLLF1;Note=splicing in BLLF1 produces gp220;gbkey=intron;gene=BLLF1
+chrEBV	Genbank	region	79567	79572	.	-	.	ID=id-BLLF1-2;gbkey=TATA_signal;gene=BLLF1
+chrEBV	Genbank	gene	76953	77584	.	-	.	ID=gene-BLLF2;Name=BLLF2;gbkey=Gene;gene=BLLF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	77100	77546	.	-	0	ID=cds-AFY97855.1;Parent=gene-BLLF2;Dbxref=NCBI_GP:AFY97855.1;Name=AFY97855.1;gbkey=CDS;gene=BLLF2;product=BLLF2;protein_id=AFY97855.1
+chrEBV	Genbank	region	77579	77584	.	-	.	ID=id-BLLF2;gbkey=TATA_signal;gene=BLLF2
+chrEBV	Genbank	region	76953	76958	.	-	.	ID=id-KC207813.1:76953..76958;Note=BLLF1 and BLLF2;gbkey=polyA_signal
+chrEBV	Genbank	gene	88816	89487	.	-	.	ID=gene-BZLF2;Name=BZLF2;gbkey=Gene;gene=BZLF2;gene_biotype=protein_coding
+chrEBV	Genbank	region	89526	89531	.	-	.	ID=id-KC207813.1:89526..89531;gbkey=TATA_signal;gene=BZLF2
+chrEBV	Genbank	CDS	88816	89487	.	-	0	ID=cds-AFY97857.1;Parent=gene-BZLF2;Dbxref=NCBI_GP:AFY97857.1;Name=AFY97857.1;Note=role in entry;gbkey=CDS;gene=BZLF2;product=BZLF2;protein_id=AFY97857.1
+chrEBV	Genbank	gene	89497	93612	.	-	.	ID=gene-BRLF1;Name=BRLF1;gbkey=Gene;gene=BRLF1;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	89497	93580	.	-	.	ID=rna-BRLF1;Parent=gene-BRLF1;gbkey=mRNA;gene=BRLF1;product=BRLF1
+chrEBV	Genbank	exon	93525	93580	.	-	.	ID=exon-BRLF1-1;Parent=rna-BRLF1;gbkey=mRNA;gene=BRLF1;product=BRLF1
+chrEBV	Genbank	exon	90054	92584	.	-	.	ID=exon-BRLF1-2;Parent=rna-BRLF1;gbkey=mRNA;gene=BRLF1;product=BRLF1
+chrEBV	Genbank	exon	89798	89902	.	-	.	ID=exon-BRLF1-3;Parent=rna-BRLF1;gbkey=mRNA;gene=BRLF1;product=BRLF1
+chrEBV	Genbank	exon	89497	89712	.	-	.	ID=exon-BRLF1-4;Parent=rna-BRLF1;gbkey=mRNA;gene=BRLF1;product=BRLF1
+chrEBV	Genbank	CDS	90765	92582	.	-	0	ID=cds-AFY97858.1;Parent=rna-BRLF1;Dbxref=NCBI_GP:AFY97858.1;Name=AFY97858.1;Note=role in reactivation from latency;gbkey=CDS;gene=BRLF1;product=BRLF1;protein_id=AFY97858.1
+chrEBV	Genbank	exon	92325	92584	.	-	.	ID=id-BRLF1;Parent=gene-BRLF1;Note=part of fused transcript from BRLF1 and BZLF1;gbkey=exon;gene=BRLF1
+chrEBV	Genbank	region	93607	93612	.	-	.	ID=id-BRLF1-2;gbkey=TATA_signal;gene=BRLF1
+chrEBV	Genbank	gene	89497	90630	.	-	.	ID=gene-BZLF1;Name=BZLF1;gbkey=Gene;gene=BZLF1;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	89497	90593	.	-	.	ID=rna-BZLF1;Parent=gene-BZLF1;gbkey=mRNA;gene=BZLF1;product=BZLF1
+chrEBV	Genbank	exon	90054	90593	.	-	.	ID=exon-BZLF1-1;Parent=rna-BZLF1;gbkey=mRNA;gene=BZLF1;product=BZLF1
+chrEBV	Genbank	exon	89798	89902	.	-	.	ID=exon-BZLF1-2;Parent=rna-BZLF1;gbkey=mRNA;gene=BZLF1;product=BZLF1
+chrEBV	Genbank	exon	89497	89712	.	-	.	ID=exon-BZLF1-3;Parent=rna-BZLF1;gbkey=mRNA;gene=BZLF1;product=BZLF1
+chrEBV	Genbank	CDS	90054	90554	.	-	0	ID=cds-AFY97859.1;Parent=rna-BZLF1;Dbxref=NCBI_GP:AFY97859.1;Name=AFY97859.1;Note=induces switch from latent to lytic infection;gbkey=CDS;gene=BZLF1;product=BZLF1;protein_id=AFY97859.1
+chrEBV	Genbank	CDS	89798	89902	.	-	0	ID=cds-AFY97859.1;Parent=rna-BZLF1;Dbxref=NCBI_GP:AFY97859.1;Name=AFY97859.1;Note=induces switch from latent to lytic infection;gbkey=CDS;gene=BZLF1;product=BZLF1;protein_id=AFY97859.1
+chrEBV	Genbank	CDS	89581	89712	.	-	0	ID=cds-AFY97859.1;Parent=rna-BZLF1;Dbxref=NCBI_GP:AFY97859.1;Name=AFY97859.1;Note=induces switch from latent to lytic infection;gbkey=CDS;gene=BZLF1;product=BZLF1;protein_id=AFY97859.1
+chrEBV	Genbank	region	90625	90630	.	-	.	ID=id-BZLF1;gbkey=TATA_signal;gene=BZLF1
+chrEBV	Genbank	region	89522	89527	.	-	.	ID=id-KC207813.1:89522..89527;Note=for BRLF1 and BZLF1;gbkey=polyA_signal
+chrEBV	Genbank	gene	92415	93514	.	+	.	ID=gene-BRRF1;Name=BRRF1;gbkey=Gene;gene=BRRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	92581	93513	.	+	0	ID=cds-AFY97860.1;Parent=gene-BRRF1;Dbxref=NCBI_GP:AFY97860.1;Name=AFY97860.1;gbkey=CDS;gene=BRRF1;product=BRRF1;protein_id=AFY97860.1
+chrEBV	Genbank	region	93509	93514	.	+	.	ID=id-BRRF1;gbkey=polyA_signal;gene=BRRF1
+chrEBV	Genbank	region	92415	92420	.	+	.	ID=id-BRRF1-2;gbkey=TATA_signal;gene=BRRF1
+chrEBV	Genbank	gene	93642	95318	.	+	.	ID=gene-BRRF2;Name=BRRF2;gbkey=Gene;gene=BRRF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	93701	95314	.	+	0	ID=cds-AFY97861.1;Parent=gene-BRRF2;Dbxref=NCBI_GP:AFY97861.1;Name=AFY97861.1;gbkey=CDS;gene=BRRF2;product=BRRF2;protein_id=AFY97861.1
+chrEBV	Genbank	region	95313	95318	.	+	.	ID=id-BRRF2;gbkey=polyA_signal;gene=BRRF2
+chrEBV	Genbank	region	93642	93647	.	+	.	ID=id-BRRF2-2;gbkey=TATA_signal;gene=BRRF2
+chrEBV	Genbank	gene	97172	99059	.	+	.	ID=gene-BKRF2;Name=BKRF2;gbkey=Gene;gene=BKRF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	97225	97638	.	+	0	ID=cds-AFY97862.1;Parent=gene-BKRF2;Dbxref=NCBI_GP:AFY97862.1;Name=AFY97862.1;Note=virion glycoprotein gL;gbkey=CDS;gene=BKRF2;product=BKRF2;protein_id=AFY97862.1
+chrEBV	Genbank	region	97172	97177	.	+	.	ID=id-BKRF2;gbkey=TATA_signal;gene=BKRF2
+chrEBV	Genbank	gene	97620	99059	.	+	.	ID=gene-BKRF3;Name=BKRF3;gbkey=Gene;gene=BKRF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	97620	98387	.	+	0	ID=cds-AFY97863.1;Parent=gene-BKRF3;Dbxref=NCBI_GP:AFY97863.1;Name=AFY97863.1;Note=uracil-DNA glycosylase;gbkey=CDS;gene=BKRF3;product=uracil DNA glycosylase;protein_id=AFY97863.1
+chrEBV	Genbank	gene	98401	99059	.	+	.	ID=gene-BKRF4;Name=BKRF4;gbkey=Gene;gene=BKRF4;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	98401	99054	.	+	0	ID=cds-AFY97864.1;Parent=gene-BKRF4;Dbxref=NCBI_GP:AFY97864.1;Name=AFY97864.1;gbkey=CDS;gene=BKRF4;product=BKRF4;protein_id=AFY97864.1
+chrEBV	Genbank	region	99054	99059	.	+	.	ID=id-KC207813.1:99054..99059;Note=BKRF2%2C BKRF3 and BKRF4;gbkey=polyA_signal
+chrEBV	Genbank	gene	99092	101526	.	-	.	ID=gene-BBLF4;Name=BBLF4;gbkey=Gene;gene=BBLF4;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	99097	101526	.	-	0	ID=cds-AFY97865.1;Parent=gene-BBLF4;Dbxref=NCBI_GP:AFY97865.1;Name=AFY97865.1;Note=helicase subunit of helicase-primase complex;gbkey=CDS;gene=BBLF4;product=helicase-primase subunit BBLF4;protein_id=AFY97865.1
+chrEBV	Genbank	region	99092	99097	.	-	.	ID=id-BBLF4;gbkey=polyA_signal;gene=BBLF4
+chrEBV	Genbank	gene	101143	104057	.	+	.	ID=gene-BBRF1;Name=BBRF1;gbkey=Gene;gene=BBRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	101471	103312	.	+	0	ID=cds-AFY97866.1;Parent=gene-BBRF1;Dbxref=NCBI_GP:AFY97866.1;Name=AFY97866.1;Note=portal protein;gbkey=CDS;gene=BBRF1;product=BBRF1;protein_id=AFY97866.1
+chrEBV	Genbank	region	101143	101148	.	+	.	ID=id-BBRF1;gbkey=TATA_signal;gene=BBRF1
+chrEBV	Genbank	gene	103215	104057	.	+	.	ID=gene-BBRF2;Name=BBRF2;gbkey=Gene;gene=BBRF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	103215	104051	.	+	0	ID=cds-AFY97867.1;Parent=gene-BBRF2;Dbxref=NCBI_GP:AFY97867.1;Name=AFY97867.1;Note=tegument protein;gbkey=CDS;gene=BBRF2;product=BBRF2;protein_id=AFY97867.1
+chrEBV	Genbank	gene	103958	106305	.	-	.	ID=gene-BBLF2/BBLF3;Name=BBLF2/BBLF3;gbkey=Gene;gene=BBLF2/BBLF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	104782	106305	.	-	0	ID=cds-AFY97868.1;Parent=gene-BBLF2/BBLF3;Dbxref=NCBI_GP:AFY97868.1;Name=AFY97868.1;Note=subunit of helicase-primase complex;gbkey=CDS;gene=BBLF2/BBLF3;product=helicase-primase subunit BBLF2/3;protein_id=AFY97868.1
+chrEBV	Genbank	CDS	104048	104653	.	-	0	ID=cds-AFY97868.1;Parent=gene-BBLF2/BBLF3;Dbxref=NCBI_GP:AFY97868.1;Name=AFY97868.1;Note=subunit of helicase-primase complex;gbkey=CDS;gene=BBLF2/BBLF3;product=helicase-primase subunit BBLF2/3;protein_id=AFY97868.1
+chrEBV	Genbank	region	103958	103963	.	-	.	ID=id-BBLF2/BBLF3;gbkey=polyA_signal;gene=BBLF2/BBLF3
+chrEBV	Genbank	region	104052	104057	.	+	.	ID=id-KC207813.1:104052..104057;Note=BBRF1 and BBRF2;gbkey=polyA_signal
+chrEBV	Genbank	gene	106248	107630	.	+	.	ID=gene-BBRF3;Name=BBRF3;gbkey=Gene;gene=BBRF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	106404	107621	.	+	0	ID=cds-AFY97869.1;Parent=gene-BBRF3;Dbxref=NCBI_GP:AFY97869.1;Name=AFY97869.1;Note=envelope glycoprotein gM;gbkey=CDS;gene=BBRF3;product=BBRF3;protein_id=AFY97869.1
+chrEBV	Genbank	region	107625	107630	.	+	.	ID=id-BBRF3;gbkey=polyA_signal;gene=BBRF3
+chrEBV	Genbank	region	106248	106253	.	+	.	ID=id-BBRF3-2;gbkey=TATA_signal;gene=BBRF3
+chrEBV	Genbank	region	106365	106370	.	+	.	ID=id-BBRF3-3;gbkey=TATA_signal;gene=BBRF3
+chrEBV	Genbank	gene	108013	112379	.	-	.	ID=gene-BGLF3;Name=BGLF3;gbkey=Gene;gene=BGLF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	111207	112205	.	-	0	ID=cds-AFY97870.1;Parent=gene-BGLF3;Dbxref=NCBI_GP:AFY97870.1;Name=AFY97870.1;gbkey=CDS;gene=BGLF3;product=BGLF3;protein_id=AFY97870.1
+chrEBV	Genbank	region	112374	112379	.	-	.	ID=id-BGLF3;gbkey=TATA_signal;gene=BGLF3
+chrEBV	Genbank	gene	108013	111383	.	-	.	ID=gene-BGLF3.5;Name=BGLF3.5;gbkey=Gene;gene=BGLF3.5;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	110759	111220	.	-	0	ID=cds-AFY97871.1;Parent=gene-BGLF3.5;Dbxref=NCBI_GP:AFY97871.1;Name=AFY97871.1;Note=tegument protein;gbkey=CDS;gene=BGLF3.5;product=BGLF3.5;protein_id=AFY97871.1
+chrEBV	Genbank	region	111378	111383	.	-	.	ID=id-BGLF3.5;gbkey=TATA_signal;gene=BGLF3.5
+chrEBV	Genbank	gene	108013	110880	.	-	.	ID=gene-BGLF4;Name=BGLF4;gbkey=Gene;gene=BGLF4;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	109591	110880	.	-	0	ID=cds-AFY97872.1;Parent=gene-BGLF4;Dbxref=NCBI_GP:AFY97872.1;Name=AFY97872.1;Note=serine-threonine protein kinase;gbkey=CDS;gene=BGLF4;product=BGLF4;protein_id=AFY97872.1
+chrEBV	Genbank	gene	108013	109607	.	-	.	ID=gene-BGLF5;Name=BGLF5;gbkey=Gene;gene=BGLF5;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	108195	109607	.	-	0	ID=cds-AFY97873.1;Parent=gene-BGLF5;Dbxref=NCBI_GP:AFY97873.1;Name=AFY97873.1;Note=deoxyribonuclease;gbkey=CDS;gene=BGLF5;product=BGLF5;protein_id=AFY97873.1
+chrEBV	Genbank	gene	108013	108597	.	-	.	ID=gene-BBLF1;Name=BBLF1;gbkey=Gene;gene=BBLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	108013	108240	.	-	0	ID=cds-AFY97874.1;Parent=gene-BBLF1;Dbxref=NCBI_GP:AFY97874.1;Name=AFY97874.1;Note=myristylated tegument protein anchored in envelope;gbkey=CDS;gene=BBLF1;product=alkaline exonuclease;protein_id=AFY97874.1
+chrEBV	Genbank	region	108592	108597	.	-	.	ID=id-BBLF1;gbkey=TATA_signal;gene=BBLF1
+chrEBV	Genbank	region	108025	108030	.	-	.	ID=id-KC207813.1:108025..108030;Note=BGLF3%2C BGLF3.5%2C BGLF4%2C BGLF5 and BBLF1;gbkey=polyA_signal
+chrEBV	Genbank	gene	112204	117615	.	+	.	ID=gene-BGRF1/BDRF1;Name=BGRF1/BDRF1;gbkey=Gene;gene=BGRF1/BDRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	112204	113139	.	+	0	ID=cds-AFY97875.1;Parent=gene-BGRF1/BDRF1;Dbxref=NCBI_GP:AFY97875.1;Name=AFY97875.1;Note=putative ATPase subunit of terminase;gbkey=CDS;gene=BGRF1/BDRF1;product=BGRF1/BDRF1;protein_id=AFY97875.1
+chrEBV	Genbank	CDS	116478	117614	.	+	0	ID=cds-AFY97875.1;Parent=gene-BGRF1/BDRF1;Dbxref=NCBI_GP:AFY97875.1;Name=AFY97875.1;Note=putative ATPase subunit of terminase;gbkey=CDS;gene=BGRF1/BDRF1;product=BGRF1/BDRF1;protein_id=AFY97875.1
+chrEBV	Genbank	region	117610	117615	.	+	.	ID=id-BGRF1/BDRF1;gbkey=polyA_signal;gene=BGRF1/BDRF1
+chrEBV	Genbank	gene	112745	116567	.	-	.	ID=gene-BDLF3.5;Name=BDLF3.5;gbkey=Gene;gene=BDLF3.5;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	116263	116496	.	-	0	ID=cds-AFY97876.1;Parent=gene-BDLF3.5;Dbxref=NCBI_GP:AFY97876.1;Name=AFY97876.1;gbkey=CDS;gene=BDLF3.5;product=BDLF3;protein_id=AFY97876.1
+chrEBV	Genbank	region	116562	116567	.	-	.	ID=id-BDLF3.5;gbkey=TATA_signal;gene=BDLF3.5
+chrEBV	Genbank	gene	112745	116317	.	-	.	ID=gene-BDLF4;Name=BDLF4;gbkey=Gene;gene=BDLF4;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	115607	116284	.	-	0	ID=cds-AFY97877.1;Parent=gene-BDLF4;Dbxref=NCBI_GP:AFY97877.1;Name=AFY97877.1;gbkey=CDS;gene=BDLF4;product=BDLF4;protein_id=AFY97877.1
+chrEBV	Genbank	region	116312	116317	.	-	.	ID=id-BDLF4;gbkey=TATA_signal;gene=BDLF4
+chrEBV	Genbank	gene	112745	115695	.	-	.	ID=gene-BGLF1;Name=BGLF1;gbkey=Gene;gene=BGLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	114117	115637	.	-	0	ID=cds-AFY97878.1;Parent=gene-BGLF1;Dbxref=NCBI_GP:AFY97878.1;Name=AFY97878.1;Note=role in DNA packaging;gbkey=CDS;gene=BGLF1;product=BGLF1;protein_id=AFY97878.1
+chrEBV	Genbank	region	115690	115695	.	-	.	ID=id-BGLF1;gbkey=TATA_signal;gene=BGLF1
+chrEBV	Genbank	gene	112745	114195	.	-	.	ID=gene-BGLF2;Name=BGLF2;gbkey=Gene;gene=BGLF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	113129	114139	.	-	0	ID=cds-AFY97879.1;Parent=gene-BGLF2;Dbxref=NCBI_GP:AFY97879.1;Name=AFY97879.1;Note=tegument protein;gbkey=CDS;gene=BGLF2;product=BGLF2;protein_id=AFY97879.1
+chrEBV	Genbank	region	114190	114195	.	-	.	ID=id-BGLF2;gbkey=TATA_signal;gene=BGLF2
+chrEBV	Genbank	region	112745	112750	.	-	.	ID=id-KC207813.1:112745..112750;Note=BDLF3.5%2C BDLF4%2C BGLF1 and BGLF2;gbkey=polyA_signal
+chrEBV	Genbank	gene	117617	120649	.	-	.	ID=gene-BDLF1;Name=BDLF1;gbkey=Gene;gene=BDLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	119663	120568	.	-	0	ID=cds-AFY97880.1;Parent=gene-BDLF1;Dbxref=NCBI_GP:AFY97880.1;Name=AFY97880.1;Note=capsid triplex protein;gbkey=CDS;gene=BDLF1;product=capsid triplex subunit 2;protein_id=AFY97880.1
+chrEBV	Genbank	region	120610	120615	.	-	.	ID=id-BDLF1;gbkey=TATA_signal;gene=BDLF1
+chrEBV	Genbank	region	120644	120649	.	-	.	ID=id-BDLF1-2;gbkey=TATA_signal;gene=BDLF1
+chrEBV	Genbank	gene	117617	119739	.	-	.	ID=gene-BDLF2;Name=BDLF2;gbkey=Gene;gene=BDLF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	118390	119652	.	-	0	ID=cds-AFY97881.1;Parent=gene-BDLF2;Dbxref=NCBI_GP:AFY97881.1;Name=AFY97881.1;gbkey=CDS;gene=BDLF2;product=BDLF2;protein_id=AFY97881.1
+chrEBV	Genbank	region	119734	119739	.	-	.	ID=id-BDLF2;gbkey=TATA_signal;gene=BDLF2
+chrEBV	Genbank	gene	117617	118367	.	-	.	ID=gene-BDLF3;Name=BDLF3;gbkey=Gene;gene=BDLF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	117625	118329	.	-	0	ID=cds-AFY97882.1;Parent=gene-BDLF3;Dbxref=NCBI_GP:AFY97882.1;Name=AFY97882.1;Note=membrane glycoprotein gp150;gbkey=CDS;gene=BDLF3;product=BDLF3;protein_id=AFY97882.1
+chrEBV	Genbank	region	118362	118367	.	-	.	ID=id-BDLF3;gbkey=TATA_signal;gene=BDLF3
+chrEBV	Genbank	region	117617	117622	.	-	.	ID=id-KC207813.1:117617..117622;Note=BDLF1%2C BDLF2 and BDLF3;gbkey=polyA_signal
+chrEBV	Genbank	gene	120570	124973	.	-	.	ID=gene-BcLF1;Name=BcLF1;gbkey=Gene;gene=BcLF1;gene_biotype=protein_coding
+chrEBV	Genbank	region	120570	120575	.	-	.	ID=id-BcLF1;gbkey=polyA_signal;gene=BcLF1
+chrEBV	Genbank	CDS	120584	124729	.	-	0	ID=cds-AFY97883.1;Parent=gene-BcLF1;Dbxref=NCBI_GP:AFY97883.1;Name=AFY97883.1;Note=major capsid protein;gbkey=CDS;gene=BcLF1;product=BcLF1;protein_id=AFY97883.1
+chrEBV	Genbank	region	124968	124973	.	-	.	ID=id-BcLF1-2;gbkey=TATA_signal;gene=BcLF1
+chrEBV	Genbank	gene	124624	128237	.	+	.	ID=gene-BcRF1;Name=BcRF1;gbkey=Gene;gene=BcRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	124728	126980	.	+	0	ID=cds-AFY97884.1;Parent=gene-BcRF1;Dbxref=NCBI_GP:AFY97884.1;Name=AFY97884.1;gbkey=CDS;gene=BcRF1;product=hypothetical protein;protein_id=AFY97884.1
+chrEBV	Genbank	region	124624	124629	.	+	.	ID=id-BcRF1;gbkey=TATA_signal;gene=BcRF1
+chrEBV	Genbank	gene	126967	128237	.	+	.	ID=gene-BTRF1;Name=BTRF1;gbkey=Gene;gene=BTRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	126967	128181	.	+	0	ID=cds-AFY97885.1;Parent=gene-BTRF1;Dbxref=NCBI_GP:AFY97885.1;Name=AFY97885.1;Note=tegument protein;gbkey=CDS;gene=BTRF1;product=BTRF1;protein_id=AFY97885.1
+chrEBV	Genbank	gene	128159	132397	.	-	.	ID=gene-BXLF1;Name=BXLF1;gbkey=Gene;gene=BXLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	130300	132123	.	-	0	ID=cds-AFY97886.1;Parent=gene-BXLF1;Dbxref=NCBI_GP:AFY97886.1;Name=AFY97886.1;Note=thymidine kinase;gbkey=CDS;gene=BXLF1;product=thymidine kinase;protein_id=AFY97886.1
+chrEBV	Genbank	region	132390	132395	.	-	.	ID=id-BXLF1;gbkey=TATA_signal;gene=BXLF1
+chrEBV	Genbank	gene	128159	130572	.	-	.	ID=gene-BXLF2;Name=BXLF2;gbkey=Gene;gene=BXLF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	128178	130298	.	-	0	ID=cds-AFY97887.1;Parent=gene-BXLF2;Dbxref=NCBI_GP:AFY97887.1;Name=AFY97887.1;Note=gp85;gbkey=CDS;gene=BXLF2;product=BXLF2;protein_id=AFY97887.1
+chrEBV	Genbank	region	130567	130572	.	-	.	ID=id-BXLF2;gbkey=TATA_signal;gene=BXLF2
+chrEBV	Genbank	region	128159	128164	.	-	.	ID=id-KC207813.1:128159..128164;Note=BXLF1 and BXLF2;gbkey=polyA_signal
+chrEBV	Genbank	region	128232	128237	.	+	.	ID=id-KC207813.1:128232..128237;Note=BcRF1 and BTRF1;gbkey=polyA_signal
+chrEBV	Genbank	gene	132122	134437	.	+	.	ID=gene-BXRF1;Name=BXRF1;gbkey=Gene;gene=BXRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	132122	132868	.	+	0	ID=cds-AFY97888.1;Parent=gene-BXRF1;Dbxref=NCBI_GP:AFY97888.1;Name=AFY97888.1;Note=nuclear protein;gbkey=CDS;gene=BXRF1;product=BXRF1;protein_id=AFY97888.1
+chrEBV	Genbank	gene	132564	134437	.	+	.	ID=gene-BVRF1;Name=BVRF1;gbkey=Gene;gene=BVRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	132678	134390	.	+	0	ID=cds-AFY97889.1;Parent=gene-BVRF1;Dbxref=NCBI_GP:AFY97889.1;Name=AFY97889.1;Note=putative portal-capping protein;gbkey=CDS;gene=BVRF1;product=BVRF1;protein_id=AFY97889.1
+chrEBV	Genbank	region	132564	132569	.	+	.	ID=id-BVRF1;gbkey=TATA_signal;gene=BVRF1
+chrEBV	Genbank	gene	134183	135178	.	-	.	ID=gene-BVLF1;Name=BVLF1;gbkey=Gene;gene=BVLF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	134360	135178	.	-	0	ID=cds-AFY97890.1;Parent=gene-BVLF1;Dbxref=NCBI_GP:AFY97890.1;Name=AFY97890.1;gbkey=CDS;gene=BVLF1;product=BVLF1;protein_id=AFY97890.1
+chrEBV	Genbank	region	134183	134188	.	-	.	ID=id-BVLF1;gbkey=polyA_signal;gene=BVLF1
+chrEBV	Genbank	region	134432	134437	.	+	.	ID=id-KC207813.1:134432..134437;Note=BXRF1 and BVRF1;gbkey=polyA_signal
+chrEBV	Genbank	gene	134983	137006	.	+	.	ID=gene-BVRF2;Name=BVRF2;gbkey=Gene;gene=BVRF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	135189	137006	.	+	0	ID=cds-AFY97891.1;Parent=gene-BVRF2;Dbxref=NCBI_GP:AFY97891.1;Name=AFY97891.1;Note=minor capsid scaffold protein;gbkey=CDS;gene=BVRF2;product=BVRF2;protein_id=AFY97891.1
+chrEBV	Genbank	region	134983	134988	.	+	.	ID=id-BVRF2;gbkey=TATA_signal;gene=BVRF2
+chrEBV	Genbank	gene	135882	137006	.	+	.	ID=gene-BdRF1;Name=BdRF1;gbkey=Gene;gene=BdRF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	135969	137006	.	+	0	ID=cds-AFY97892.1;Parent=gene-BdRF1;Dbxref=NCBI_GP:AFY97892.1;Name=AFY97892.1;Note=major capsid scaffold protein;gbkey=CDS;gene=BdRF1;product=BdRF1;protein_id=AFY97892.1
+chrEBV	Genbank	region	135882	135887	.	+	.	ID=id-BdRF1;gbkey=TATA_signal;gene=BdRF1
+chrEBV	Genbank	region	136989	136994	.	+	.	ID=id-KC207813.1:136989..136994;Note=BVRF2 and BdRF1;gbkey=polyA_signal
+chrEBV	Genbank	gene	137015	137833	.	-	.	ID=gene-BILF2;Name=BILF2;gbkey=Gene;gene=BILF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	137041	137787	.	-	0	ID=cds-AFY97893.1;Parent=gene-BILF2;Dbxref=NCBI_GP:AFY97893.1;Name=AFY97893.1;gbkey=CDS;gene=BILF2;product=membrane glycoprotein;protein_id=AFY97893.1
+chrEBV	Genbank	region	137015	137020	.	-	.	ID=id-BILF2;gbkey=polyA_signal;gene=BILF2
+chrEBV	Genbank	region	137828	137833	.	-	.	ID=id-BILF2-2;gbkey=TATA_signal;gene=BILF2
+chrEBV	Genbank	gene	137903	160073	.	+	.	ID=gene-RPMS1;Name=RPMS1;gbkey=Gene;gene=RPMS1;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	137903	160073	.	+	.	ID=rna-RPMS1;Parent=gene-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	exon	137903	138031	.	+	.	ID=exon-RPMS1-1;Parent=rna-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	exon	149126	149257	.	+	.	ID=exon-RPMS1-2;Parent=rna-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	exon	149468	149622	.	+	.	ID=exon-RPMS1-3;Parent=rna-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	exon	149782	149893	.	+	.	ID=exon-RPMS1-4;Parent=rna-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	exon	154809	156279	.	+	.	ID=exon-RPMS1-5;Parent=rna-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	exon	156388	156470	.	+	.	ID=exon-RPMS1-6;Parent=rna-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	exon	158167	160073	.	+	.	ID=exon-RPMS1-7;Parent=rna-RPMS1;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=RPMS1;product=RPMS1
+chrEBV	Genbank	CDS	149868	149893	.	+	0	ID=cds-AFY97894.1;Parent=rna-RPMS1;Dbxref=NCBI_GP:AFY97894.1;Name=AFY97894.1;gbkey=CDS;gene=RPMS1;product=RPMS1;protein_id=AFY97894.1
+chrEBV	Genbank	CDS	154809	155094	.	+	1	ID=cds-AFY97894.1;Parent=rna-RPMS1;Dbxref=NCBI_GP:AFY97894.1;Name=AFY97894.1;gbkey=CDS;gene=RPMS1;product=RPMS1;protein_id=AFY97894.1
+chrEBV	Genbank	repeat_region	138498	138875	.	+	.	ID=id-RPMS1;gbkey=repeat_region;gene=RPMS1
+chrEBV	Genbank	direct_repeat	140311	142828	.	+	.	ID=id-RPMS1-2;gbkey=repeat_region;gene=RPMS1;rpt_family=IR4%3B PstI;rpt_type=direct;rpt_unit_range=140311..140412
+chrEBV	Genbank	direct_repeat	142819	143875	.	+	.	ID=id-RPMS1-3;Note=DRright;gbkey=repeat_region;gene=RPMS1;rpt_family=DR;rpt_type=direct
+chrEBV	Genbank	miRNA	138638	138658	.	+	.	ID=rna-RPMS1-2;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART3*
+chrEBV	Genbank	exon	138638	138658	.	+	.	ID=exon-RPMS1-2-1;Parent=rna-RPMS1-2;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART3*
+chrEBV	Genbank	miRNA	138675	138696	.	+	.	ID=rna-RPMS1-3;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART3
+chrEBV	Genbank	exon	138675	138696	.	+	.	ID=exon-RPMS1-3-1;Parent=rna-RPMS1-3;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART3
+chrEBV	Genbank	miRNA	138774	138795	.	+	.	ID=rna-RPMS1-4;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART4
+chrEBV	Genbank	exon	138774	138795	.	+	.	ID=exon-RPMS1-4-1;Parent=rna-RPMS1-4;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART4
+chrEBV	Genbank	miRNA	138812	138834	.	+	.	ID=rna-RPMS1-5;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART4*
+chrEBV	Genbank	exon	138812	138834	.	+	.	ID=exon-RPMS1-5-1;Parent=rna-RPMS1-5;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART4*
+chrEBV	Genbank	miRNA	138897	138920	.	+	.	ID=rna-RPMS1-6;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART1-5p
+chrEBV	Genbank	exon	138897	138920	.	+	.	ID=exon-RPMS1-6-1;Parent=rna-RPMS1-6;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART1-5p
+chrEBV	Genbank	miRNA	138933	138954	.	+	.	ID=rna-RPMS1-7;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART1-3p
+chrEBV	Genbank	exon	138933	138954	.	+	.	ID=exon-RPMS1-7-1;Parent=rna-RPMS1-7;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART1-3p
+chrEBV	Genbank	miRNA	139099	139120	.	+	.	ID=rna-RPMS1-8;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART15
+chrEBV	Genbank	exon	139099	139120	.	+	.	ID=exon-RPMS1-8-1;Parent=rna-RPMS1-8;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART15
+chrEBV	Genbank	miRNA	139222	139245	.	+	.	ID=rna-RPMS1-9;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART5
+chrEBV	Genbank	exon	139222	139245	.	+	.	ID=exon-RPMS1-9-1;Parent=rna-RPMS1-9;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART5
+chrEBV	Genbank	miRNA	139264	139281	.	+	.	ID=rna-RPMS1-10;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART5*
+chrEBV	Genbank	exon	139264	139281	.	+	.	ID=exon-RPMS1-10-1;Parent=rna-RPMS1-10;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART5*
+chrEBV	Genbank	miRNA	139342	139365	.	+	.	ID=rna-RPMS1-11;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART16
+chrEBV	Genbank	exon	139342	139365	.	+	.	ID=exon-RPMS1-11-1;Parent=rna-RPMS1-11;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART16
+chrEBV	Genbank	miRNA	139462	139483	.	+	.	ID=rna-RPMS1-12;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART17-5p
+chrEBV	Genbank	exon	139462	139483	.	+	.	ID=exon-RPMS1-12-1;Parent=rna-RPMS1-12;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART17-5p
+chrEBV	Genbank	miRNA	139500	139522	.	+	.	ID=rna-RPMS1-13;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART17-3p
+chrEBV	Genbank	exon	139500	139522	.	+	.	ID=exon-RPMS1-13-1;Parent=rna-RPMS1-13;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART17-3p
+chrEBV	Genbank	miRNA	139580	139601	.	+	.	ID=rna-RPMS1-14;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART6-5p
+chrEBV	Genbank	exon	139580	139601	.	+	.	ID=exon-RPMS1-14-1;Parent=rna-RPMS1-14;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART6-5p
+chrEBV	Genbank	miRNA	139618	139639	.	+	.	ID=rna-RPMS1-15;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART6-3p
+chrEBV	Genbank	exon	139618	139639	.	+	.	ID=exon-RPMS1-15-1;Parent=rna-RPMS1-15;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART6-3p
+chrEBV	Genbank	miRNA	145061	145081	.	+	.	ID=rna-RPMS1-16;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART21-5p
+chrEBV	Genbank	exon	145061	145081	.	+	.	ID=exon-RPMS1-16-1;Parent=rna-RPMS1-16;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART21-5p
+chrEBV	Genbank	miRNA	145095	145116	.	+	.	ID=rna-RPMS1-17;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART21-3p
+chrEBV	Genbank	exon	145095	145116	.	+	.	ID=exon-RPMS1-17-1;Parent=rna-RPMS1-17;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART21-3p
+chrEBV	Genbank	miRNA	145545	145566	.	+	.	ID=rna-RPMS1-18;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART18-3p
+chrEBV	Genbank	exon	145545	145566	.	+	.	ID=exon-RPMS1-18-1;Parent=rna-RPMS1-18;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART18-3p
+chrEBV	Genbank	miRNA	145982	146003	.	+	.	ID=rna-RPMS1-19;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART7*
+chrEBV	Genbank	exon	145982	146003	.	+	.	ID=exon-RPMS1-19-1;Parent=rna-RPMS1-19;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART7*
+chrEBV	Genbank	miRNA	146018	146039	.	+	.	ID=rna-RPMS1-20;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART7
+chrEBV	Genbank	exon	146018	146039	.	+	.	ID=exon-RPMS1-20-1;Parent=rna-RPMS1-20;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART7
+chrEBV	Genbank	miRNA	146315	146336	.	+	.	ID=rna-RPMS1-21;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART8
+chrEBV	Genbank	exon	146315	146336	.	+	.	ID=exon-RPMS1-21-1;Parent=rna-RPMS1-21;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART8
+chrEBV	Genbank	miRNA	146350	146372	.	+	.	ID=rna-RPMS1-22;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART8*
+chrEBV	Genbank	exon	146350	146372	.	+	.	ID=exon-RPMS1-22-1;Parent=rna-RPMS1-22;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART8*
+chrEBV	Genbank	miRNA	146502	146523	.	+	.	ID=rna-RPMS1-23;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART9*
+chrEBV	Genbank	exon	146502	146523	.	+	.	ID=exon-RPMS1-23-1;Parent=rna-RPMS1-23;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART9*
+chrEBV	Genbank	miRNA	146540	146562	.	+	.	ID=rna-RPMS1-24;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART9
+chrEBV	Genbank	exon	146540	146562	.	+	.	ID=exon-RPMS1-24-1;Parent=rna-RPMS1-24;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART9
+chrEBV	Genbank	miRNA	146747	146769	.	+	.	ID=rna-RPMS1-25;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART22
+chrEBV	Genbank	exon	146747	146769	.	+	.	ID=exon-RPMS1-25-1;Parent=rna-RPMS1-25;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART22
+chrEBV	Genbank	miRNA	146865	146886	.	+	.	ID=rna-RPMS1-26;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART10*
+chrEBV	Genbank	exon	146865	146886	.	+	.	ID=exon-RPMS1-26-1;Parent=rna-RPMS1-26;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART10*
+chrEBV	Genbank	miRNA	146900	146922	.	+	.	ID=rna-RPMS1-27;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART10
+chrEBV	Genbank	exon	146900	146922	.	+	.	ID=exon-RPMS1-27-1;Parent=rna-RPMS1-27;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART10
+chrEBV	Genbank	miRNA	147081	147104	.	+	.	ID=rna-RPMS1-28;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART11-5p
+chrEBV	Genbank	exon	147081	147104	.	+	.	ID=exon-RPMS1-28-1;Parent=rna-RPMS1-28;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART11-5p
+chrEBV	Genbank	miRNA	147119	147139	.	+	.	ID=rna-RPMS1-29;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART11-3p
+chrEBV	Genbank	exon	147119	147139	.	+	.	ID=exon-RPMS1-29-1;Parent=rna-RPMS1-29;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART11-3p
+chrEBV	Genbank	miRNA	147481	147502	.	+	.	ID=rna-RPMS1-30;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART12
+chrEBV	Genbank	exon	147481	147502	.	+	.	ID=exon-RPMS1-30-1;Parent=rna-RPMS1-30;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART12
+chrEBV	Genbank	miRNA	147760	147782	.	+	.	ID=rna-RPMS1-31;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART19-5p
+chrEBV	Genbank	exon	147760	147782	.	+	.	ID=exon-RPMS1-31-1;Parent=rna-RPMS1-31;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART19-5p
+chrEBV	Genbank	miRNA	147799	147819	.	+	.	ID=rna-RPMS1-32;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART19-3p
+chrEBV	Genbank	exon	147799	147819	.	+	.	ID=exon-RPMS1-32-1;Parent=rna-RPMS1-32;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART19-3p
+chrEBV	Genbank	miRNA	147884	147904	.	+	.	ID=rna-RPMS1-33;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART20-5p
+chrEBV	Genbank	exon	147884	147904	.	+	.	ID=exon-RPMS1-33-1;Parent=rna-RPMS1-33;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART20-5p
+chrEBV	Genbank	miRNA	147919	147940	.	+	.	ID=rna-RPMS1-34;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART20-3p
+chrEBV	Genbank	exon	147919	147940	.	+	.	ID=exon-RPMS1-34-1;Parent=rna-RPMS1-34;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART20-3p
+chrEBV	Genbank	miRNA	148071	148092	.	+	.	ID=rna-RPMS1-35;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART13*
+chrEBV	Genbank	exon	148071	148092	.	+	.	ID=exon-RPMS1-35-1;Parent=rna-RPMS1-35;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART13*
+chrEBV	Genbank	miRNA	148108	148130	.	+	.	ID=rna-RPMS1-36;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART13
+chrEBV	Genbank	exon	148108	148130	.	+	.	ID=exon-RPMS1-36-1;Parent=rna-RPMS1-36;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART13
+chrEBV	Genbank	miRNA	148289	148310	.	+	.	ID=rna-RPMS1-37;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART14*
+chrEBV	Genbank	exon	148289	148310	.	+	.	ID=exon-RPMS1-37-1;Parent=rna-RPMS1-37;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART14*
+chrEBV	Genbank	miRNA	148323	148344	.	+	.	ID=rna-RPMS1-38;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART14
+chrEBV	Genbank	exon	148323	148344	.	+	.	ID=exon-RPMS1-38-1;Parent=rna-RPMS1-38;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART14
+chrEBV	Genbank	miRNA	152292	152313	.	+	.	ID=rna-RPMS1-39;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART2-5p
+chrEBV	Genbank	exon	152292	152313	.	+	.	ID=exon-RPMS1-39-1;Parent=rna-RPMS1-39;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART2-5p
+chrEBV	Genbank	miRNA	152328	152351	.	+	.	ID=rna-RPMS1-40;Parent=gene-RPMS1;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART2-3p
+chrEBV	Genbank	exon	152328	152351	.	+	.	ID=exon-RPMS1-40-1;Parent=rna-RPMS1-40;gbkey=ncRNA;gene=RPMS1;product=ebv-miR-BART2-3p
+chrEBV	Genbank	gene	140116	143258	.	-	.	ID=gene-LF3;Name=LF3;gbkey=Gene;gene=LF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	140301	142892	.	-	0	ID=cds-AFY97895.1;Parent=gene-LF3;Dbxref=NCBI_GP:AFY97895.1;Name=AFY97895.1;gbkey=CDS;gene=LF3;product=LF3;protein_id=AFY97895.1
+chrEBV	Genbank	region	140252	140257	.	-	.	ID=id-LF3;gbkey=polyA_signal;gene=LF3
+chrEBV	Genbank	region	142990	142995	.	-	.	ID=id-LF3-2;gbkey=TATA_signal;gene=LF3
+chrEBV	Genbank	region	143253	143258	.	-	.	ID=id-LF3-3;gbkey=TATA_signal;gene=LF3
+chrEBV	Genbank	origin_of_replication	142754	143991	.	+	.	ID=id-KC207813.1:142754..143991;Note=region containing oriLyt%2C core lytic cycle origin of DNA replication;gbkey=rep_origin
+chrEBV	Genbank	gene	148570	152186	.	-	.	ID=gene-BILF1;Name=BILF1;gbkey=Gene;gene=BILF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	151248	152186	.	-	0	ID=cds-AFY97896.1;Parent=gene-BILF1;Dbxref=NCBI_GP:AFY97896.1;Name=AFY97896.1;Note=G protein-coupled receptor;gbkey=CDS;gene=BILF1;product=BILF1;protein_id=AFY97896.1
+chrEBV	Genbank	gene	148570	151239	.	-	.	ID=gene-LF1;Name=LF1;gbkey=Gene;gene=LF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	149830	151239	.	-	0	ID=cds-AFY97897.1;Parent=gene-LF1;Dbxref=NCBI_GP:AFY97897.1;Name=AFY97897.1;gbkey=CDS;gene=LF1;product=LF1;protein_id=AFY97897.1
+chrEBV	Genbank	gene	148570	149962	.	-	.	ID=gene-LF2;Name=LF2;gbkey=Gene;gene=LF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	148580	149869	.	-	0	ID=cds-AFY97898.1;Parent=gene-LF2;Dbxref=NCBI_GP:AFY97898.1;Name=AFY97898.1;gbkey=CDS;gene=LF2;product=hypothetical protein;protein_id=AFY97898.1
+chrEBV	Genbank	region	149957	149962	.	-	.	ID=id-LF2;gbkey=TATA_signal;gene=LF2
+chrEBV	Genbank	region	148570	148575	.	-	.	ID=id-KC207813.1:148570..148575;Note=LF1%2C LF2 and BILF1;gbkey=polyA_signal
+chrEBV	Genbank	gene	150917	155830	.	-	.	ID=gene-BALF5;Name=BALF5;gbkey=Gene;gene=BALF5;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	152783	155830	.	-	0	ID=cds-AFY97899.1;Parent=gene-BALF5;Dbxref=NCBI_GP:AFY97899.1;Name=AFY97899.1;Note=DNA polymerase catalytic subunit;gbkey=CDS;gene=BALF5;product=BALF5;protein_id=AFY97899.1
+chrEBV	Genbank	gene	155091	160073	.	+	.	ID=gene-A73;Name=A73;gbkey=Gene;gene=A73;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	155091	160073	.	+	.	ID=rna-A73;Parent=gene-A73;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=A73;product=A73
+chrEBV	Genbank	exon	155091	156279	.	+	.	ID=exon-A73-1;Parent=rna-A73;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=A73;product=A73
+chrEBV	Genbank	exon	156388	156470	.	+	.	ID=exon-A73-2;Parent=rna-A73;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=A73;product=A73
+chrEBV	Genbank	exon	158167	158293	.	+	.	ID=exon-A73-3;Parent=rna-A73;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=A73;product=A73
+chrEBV	Genbank	exon	159323	160073	.	+	.	ID=exon-A73-4;Parent=rna-A73;Note=BART mRNAs%2C of which RMPS1 and part of A73 are included as representatives%2C are complex spliced transcripts whose significance is not understood;gbkey=mRNA;gene=A73;product=A73
+chrEBV	Genbank	CDS	156194	156279	.	+	0	ID=cds-AFY97900.1;Parent=rna-A73;Dbxref=NCBI_GP:AFY97900.1;Name=AFY97900.1;gbkey=CDS;gene=A73;product=A73;protein_id=AFY97900.1
+chrEBV	Genbank	CDS	156388	156470	.	+	1	ID=cds-AFY97900.1;Parent=rna-A73;Dbxref=NCBI_GP:AFY97900.1;Name=AFY97900.1;gbkey=CDS;gene=A73;product=A73;protein_id=AFY97900.1
+chrEBV	Genbank	CDS	158167	158293	.	+	2	ID=cds-AFY97900.1;Parent=rna-A73;Dbxref=NCBI_GP:AFY97900.1;Name=AFY97900.1;gbkey=CDS;gene=A73;product=A73;protein_id=AFY97900.1
+chrEBV	Genbank	CDS	159323	159407	.	+	1	ID=cds-AFY97900.1;Parent=rna-A73;Dbxref=NCBI_GP:AFY97900.1;Name=AFY97900.1;gbkey=CDS;gene=A73;product=A73;protein_id=AFY97900.1
+chrEBV	Genbank	gene	155786	160450	.	-	.	ID=gene-BALF3;Name=BALF3;gbkey=Gene;gene=BALF3;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	158393	160450	.	-	0	ID=cds-AFY97901.1;Parent=gene-BALF3;Dbxref=NCBI_GP:AFY97901.1;Name=AFY97901.1;Note=subunit of terminase;gbkey=CDS;gene=BALF3;product=BALF3;protein_id=AFY97901.1
+chrEBV	Genbank	gene	155786	158454	.	-	.	ID=gene-BALF4;Name=BALF4;gbkey=Gene;gene=BALF4;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	155833	158406	.	-	0	ID=cds-AFY97902.1;Parent=gene-BALF4;Dbxref=NCBI_GP:AFY97902.1;Name=AFY97902.1;Note=envelope glycoprotein gB;gbkey=CDS;gene=BALF4;product=glycoprotein BALF4;protein_id=AFY97902.1
+chrEBV	Genbank	region	158449	158454	.	-	.	ID=id-BALF4;gbkey=TATA_signal;gene=BALF4
+chrEBV	Genbank	region	155786	155791	.	-	.	ID=id-KC207813.1:155786..155791;Note=BALF3 and BALF4;gbkey=polyA_signal
+chrEBV	Genbank	gene	158663	160078	.	+	.	ID=gene-BARF0;Name=BARF0;gbkey=Gene;gene=BARF0;gene_biotype=other
+chrEBV	Genbank	sequence_feature	158663	160078	.	+	.	ID=id-BARF0;Note=similar to BARF0;gbkey=misc_feature;gene=BARF0
+chrEBV	Genbank	region	160050	160055	.	+	.	ID=id-KC207813.1:160050..160055;Note=RPMS1 and A73;gbkey=polyA_signal
+chrEBV	Genbank	gene	160092	163898	.	-	.	ID=gene-BALF2;Name=BALF2;gbkey=Gene;gene=BALF2;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	160468	163854	.	-	0	ID=cds-AFY97903.1;Parent=gene-BALF2;Dbxref=NCBI_GP:AFY97903.1;Name=AFY97903.1;Note=single-stranded DNA-binding protein;gbkey=CDS;gene=BALF2;product=single-stranded DNA binding protein;protein_id=AFY97903.1
+chrEBV	Genbank	region	160092	160097	.	-	.	ID=id-BALF2;gbkey=polyA_signal;gene=BALF2
+chrEBV	Genbank	region	163893	163898	.	-	.	ID=id-BALF2-2;gbkey=TATA_signal;gene=BALF2
+chrEBV	Genbank	gene	163930	164526	.	-	.	ID=gene-BALF1;Name=BALF1;gbkey=Gene;gene=BALF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	163939	164487	.	-	0	ID=cds-AFY97904.1;Parent=gene-BALF1;Dbxref=NCBI_GP:AFY97904.1;Name=AFY97904.1;Note=similarity to Bcl-2 family proteins;gbkey=CDS;gene=BALF1;product=BALF1;protein_id=AFY97904.1
+chrEBV	Genbank	region	163930	163935	.	-	.	ID=id-BALF1;gbkey=polyA_signal;gene=BALF1
+chrEBV	Genbank	region	164521	164526	.	-	.	ID=id-BALF1-2;gbkey=TATA_signal;gene=BALF1
+chrEBV	Genbank	gene	164550	165254	.	+	.	ID=gene-BARF1;Name=BARF1;gbkey=Gene;gene=BARF1;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	164588	165253	.	+	0	ID=cds-AFY97905.1;Parent=gene-BARF1;Dbxref=NCBI_GP:AFY97905.1;Name=AFY97905.1;Note=secreted protein;gbkey=CDS;gene=BARF1;product=BARF1;protein_id=AFY97905.1
+chrEBV	Genbank	region	165249	165254	.	+	.	ID=id-BARF1;gbkey=polyA_signal;gene=BARF1
+chrEBV	Genbank	region	164550	164555	.	+	.	ID=id-BARF1-2;gbkey=TATA_signal;gene=BARF1
+chrEBV	Genbank	gene	165552	177182	.	+	.	ID=gene-LMP-2A;Name=LMP-2A;gbkey=Gene;gene=LMP-2A;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	165581	177182	.	+	.	ID=rna-LMP-2A;Parent=gene-LMP-2A;gbkey=mRNA;gene=LMP-2A;product=K15
+chrEBV	Genbank	exon	165581	165999	.	+	.	ID=exon-LMP-2A-1;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=1;product=K15
+chrEBV	Genbank	exon	171381	171595	.	+	.	ID=exon-LMP-2A-2;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=2;product=K15
+chrEBV	Genbank	exon	171683	171781	.	+	.	ID=exon-LMP-2A-3;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=3;product=K15
+chrEBV	Genbank	exon	171863	172111	.	+	.	ID=exon-LMP-2A-4;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=4;product=K15
+chrEBV	Genbank	exon	172194	172274	.	+	.	ID=exon-LMP-2A-5;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=5;product=K15
+chrEBV	Genbank	exon	172349	172519	.	+	.	ID=exon-LMP-2A-6;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=6;product=K15
+chrEBV	Genbank	exon	172603	172818	.	+	.	ID=exon-LMP-2A-7;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=7;product=K15
+chrEBV	Genbank	exon	172897	173005	.	+	.	ID=exon-LMP-2A-8;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=8;product=K15
+chrEBV	Genbank	exon	176731	177182	.	+	.	ID=exon-LMP-2A-9;Parent=rna-LMP-2A;gbkey=mRNA;gene=LMP-2A;part=9;product=K15
+chrEBV	Genbank	CDS	165644	165999	.	+	0	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=1;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	CDS	171381	171595	.	+	1	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=2;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	CDS	171683	171781	.	+	2	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=3;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	CDS	171863	172111	.	+	2	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=4;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	CDS	172194	172274	.	+	2	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=5;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	CDS	172349	172519	.	+	2	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=6;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	CDS	172603	172818	.	+	2	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=7;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	CDS	172897	173003	.	+	2	ID=cds-AFY97825.1;Parent=rna-LMP-2A;Dbxref=NCBI_GP:AFY97825.1;Name=AFY97825.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2A;part=8;product=K15;protein_id=AFY97825.1
+chrEBV	Genbank	exon	165581	165999	.	+	.	ID=id-LMP-2A;Parent=gene-LMP-2A;Note=LMP-2A first exon;gbkey=exon;gene=LMP-2A
+chrEBV	Genbank	repeat_region	167451	167612	.	+	.	ID=id-LMP-2A-2;gbkey=repeat_region;gene=LMP-2A;rpt_unit_range=167452..167484
+chrEBV	Genbank	region	165553	165558	.	+	.	ID=id-LMP-2A-3;gbkey=TATA_signal;gene=LMP-2A
+chrEBV	Genbank	gene	166024	168585	.	-	.	ID=gene-LMP-1;Name=LMP-1;gbkey=Gene;gene=LMP-1;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	166024	168553	.	-	.	ID=rna-LMP-1;Parent=gene-LMP-1;gbkey=mRNA;gene=LMP-1;product=LMP-1
+chrEBV	Genbank	exon	168246	168553	.	-	.	ID=exon-LMP-1-1;Parent=rna-LMP-1;gbkey=mRNA;gene=LMP-1;product=LMP-1
+chrEBV	Genbank	exon	168081	168167	.	-	.	ID=exon-LMP-1-2;Parent=rna-LMP-1;gbkey=mRNA;gene=LMP-1;product=LMP-1
+chrEBV	Genbank	exon	166024	168003	.	-	.	ID=exon-LMP-1-3;Parent=rna-LMP-1;gbkey=mRNA;gene=LMP-1;product=LMP-1
+chrEBV	Genbank	CDS	168246	168513	.	-	0	ID=cds-AFY97906.1;Parent=rna-LMP-1;Dbxref=NCBI_GP:AFY97906.1;Name=AFY97906.1;Note=role in transformation;gbkey=CDS;gene=LMP-1;product=LMP-1;protein_id=AFY97906.1
+chrEBV	Genbank	CDS	168081	168167	.	-	2	ID=cds-AFY97906.1;Parent=rna-LMP-1;Dbxref=NCBI_GP:AFY97906.1;Name=AFY97906.1;Note=role in transformation;gbkey=CDS;gene=LMP-1;product=LMP-1;protein_id=AFY97906.1
+chrEBV	Genbank	CDS	167243	168003	.	-	2	ID=cds-AFY97906.1;Parent=rna-LMP-1;Dbxref=NCBI_GP:AFY97906.1;Name=AFY97906.1;Note=role in transformation;gbkey=CDS;gene=LMP-1;product=LMP-1;protein_id=AFY97906.1
+chrEBV	Genbank	region	168235	168240	.	-	.	ID=id-LMP-1;Note=lytic LMP-1;gbkey=TATA_signal;gene=LMP-1
+chrEBV	Genbank	region	168580	168585	.	-	.	ID=id-LMP-1-2;gbkey=TATA_signal;gene=LMP-1
+chrEBV	Genbank	gene	166024	166608	.	-	.	ID=gene-BNLF2a;Name=BNLF2a;gbkey=Gene;gene=BNLF2a;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	166387	166569	.	-	0	ID=cds-AFY97907.1;Parent=gene-BNLF2a;Dbxref=NCBI_GP:AFY97907.1;Name=AFY97907.1;gbkey=CDS;gene=BNLF2a;product=BNLF2a;protein_id=AFY97907.1
+chrEBV	Genbank	region	166603	166608	.	-	.	ID=id-BNLF2a;gbkey=TATA_signal;gene=BNLF2a
+chrEBV	Genbank	gene	166024	166377	.	-	.	ID=gene-BNLF2b;Name=BNLF2b;gbkey=Gene;gene=BNLF2b;gene_biotype=protein_coding
+chrEBV	Genbank	CDS	166081	166377	.	-	0	ID=cds-AFY97908.1;Parent=gene-BNLF2b;Dbxref=NCBI_GP:AFY97908.1;Name=AFY97908.1;gbkey=CDS;gene=BNLF2b;product=BNLF2b;protein_id=AFY97908.1
+chrEBV	Genbank	region	166024	166029	.	-	.	ID=id-KC207813.1:166024..166029;Note=LMP-1%2C BNLF2a and BNLF2b;gbkey=polyA_signal
+chrEBV	Genbank	region	166028	166033	.	-	.	ID=id-KC207813.1:166028..166033;Note=LMP-1%2C BNLF2a and BNLF2b;gbkey=polyA_signal
+chrEBV	Genbank	gene	168791	177182	.	+	.	ID=gene-LMP-2B;Name=LMP-2B;gbkey=Gene;gene=LMP-2B;gene_biotype=protein_coding
+chrEBV	Genbank	mRNA	168791	177182	.	+	.	ID=rna-LMP-2B;Parent=gene-LMP-2B;gbkey=mRNA;gene=LMP-2B;product=LMP-2B
+chrEBV	Genbank	exon	168791	168945	.	+	.	ID=exon-LMP-2B-1;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=1;product=LMP-2B
+chrEBV	Genbank	exon	171381	171595	.	+	.	ID=exon-LMP-2B-2;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=2;product=LMP-2B
+chrEBV	Genbank	exon	171683	171781	.	+	.	ID=exon-LMP-2B-3;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=3;product=LMP-2B
+chrEBV	Genbank	exon	171863	172111	.	+	.	ID=exon-LMP-2B-4;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=4;product=LMP-2B
+chrEBV	Genbank	exon	172194	172274	.	+	.	ID=exon-LMP-2B-5;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=5;product=LMP-2B
+chrEBV	Genbank	exon	172349	172519	.	+	.	ID=exon-LMP-2B-6;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=6;product=LMP-2B
+chrEBV	Genbank	exon	172603	172818	.	+	.	ID=exon-LMP-2B-7;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=7;product=LMP-2B
+chrEBV	Genbank	exon	172897	173005	.	+	.	ID=exon-LMP-2B-8;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=8;product=LMP-2B
+chrEBV	Genbank	exon	176731	177182	.	+	.	ID=exon-LMP-2B-9;Parent=rna-LMP-2B;gbkey=mRNA;gene=LMP-2B;part=9;product=LMP-2B
+chrEBV	Genbank	CDS	59	272	.	+	0	ID=cds-AFY97826.1;Parent=rna-LMP-2B;Dbxref=NCBI_GP:AFY97826.1;Name=AFY97826.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2B;product=LMP-2B;protein_id=AFY97826.1
+chrEBV	Genbank	CDS	360	458	.	+	2	ID=cds-AFY97826.1;Parent=rna-LMP-2B;Dbxref=NCBI_GP:AFY97826.1;Name=AFY97826.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2B;product=LMP-2B;protein_id=AFY97826.1
+chrEBV	Genbank	CDS	540	788	.	+	2	ID=cds-AFY97826.1;Parent=rna-LMP-2B;Dbxref=NCBI_GP:AFY97826.1;Name=AFY97826.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2B;product=LMP-2B;protein_id=AFY97826.1
+chrEBV	Genbank	CDS	871	951	.	+	2	ID=cds-AFY97826.1;Parent=rna-LMP-2B;Dbxref=NCBI_GP:AFY97826.1;Name=AFY97826.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2B;product=LMP-2B;protein_id=AFY97826.1
+chrEBV	Genbank	CDS	1026	1196	.	+	2	ID=cds-AFY97826.1;Parent=rna-LMP-2B;Dbxref=NCBI_GP:AFY97826.1;Name=AFY97826.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2B;product=LMP-2B;protein_id=AFY97826.1
+chrEBV	Genbank	CDS	1280	1495	.	+	2	ID=cds-AFY97826.1;Parent=rna-LMP-2B;Dbxref=NCBI_GP:AFY97826.1;Name=AFY97826.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2B;product=LMP-2B;protein_id=AFY97826.1
+chrEBV	Genbank	CDS	1574	1680	.	+	2	ID=cds-AFY97826.1;Parent=rna-LMP-2B;Dbxref=NCBI_GP:AFY97826.1;Name=AFY97826.1;Note=role in latency and B cell survival;gbkey=CDS;gene=LMP-2B;product=LMP-2B;protein_id=AFY97826.1
+chrEBV	Genbank	exon	168791	168945	.	+	.	ID=id-LMP-2B;Parent=gene-LMP-2B;Note=LMP-2B first exon;gbkey=exon;gene=LMP-2B
+chrEBV	Genbank	direct_repeat	169138	171273	.	+	.	ID=id-LMP-2B-2;gbkey=repeat_region;gene=LMP-2B;rpt_family=TR;rpt_type=direct;rpt_unit_range=169138..169671
+chrEBV	Genbank	direct_repeat	169138	169671	.	+	.	ID=id-LMP-2B-3;gbkey=repeat_region;gene=LMP-2B;rpt_family=TR;rpt_type=direct
+chrEBV	Genbank	direct_repeat	169672	170205	.	+	.	ID=id-LMP-2B-4;gbkey=repeat_region;gene=LMP-2B;rpt_family=TR;rpt_type=direct
+chrEBV	Genbank	direct_repeat	170206	170739	.	+	.	ID=id-LMP-2B-5;gbkey=repeat_region;gene=LMP-2B;rpt_family=TR;rpt_type=direct
+chrEBV	Genbank	direct_repeat	170740	171273	.	+	.	ID=id-LMP-2B-6;gbkey=repeat_region;gene=LMP-2B;rpt_family=TR;rpt_type=direct
