@@ -2,11 +2,11 @@
 	
 	# Set file paths and parameters
 	REF_GENOME=  # Bowtie2 reference genome index prefix
-	R1=Input_3_R1.fastq.gz # Input read 1
-	R2=Input_3_R2.fastq.gz # Input read 2
-	TRIM_R1=trimmed_Input_3_R1.fastq.gz  # Trimmed output for read 1
-	TRIM_R2=trimmed_Input_3_R2.fastq.gz   # Trimmed output for read 2
-	OUT_BAM=Input_3_aligned_output.bam    # Final BAM output
+	R1= # Input read 1
+	R2= # Input read 2
+	TRIM_R1=  # Trimmed output for read 1
+	TRIM_R2=   # Trimmed output for read 2
+	OUT_BAM= output.bam    # Final BAM output
 	THREADS=                      # Number of threads
 	
 	# Step 1: Adapter Trimming with Cutadapt
